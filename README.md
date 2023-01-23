@@ -2,6 +2,22 @@
 
 Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separated by ` ~ `.
 
+## Jump to a Chapter
+
+- [Chapter 1](#chapter-i-1)
+- [Chapter 2](#chapter-ii-2)
+- [Chapter 3](#chapter-iii-3)
+- [Chapter 4](#chapter-iv-4)
+- [Chapter 5](#chapter-v-5)
+- [Chapter 6](#chapter-vi-6)
+- [Chapter 7](#chapter-vii-7)
+- [Chapter 8](#chapter-viii-8)
+- [Chapter 9](#chapter-ix-9)
+- [Chapter 10](#chapter-x-10)
+- [Chapter 11](#chapter-xi-11)
+- [Chapter 12](#chapter-xii-12)
+
+
 ## Chapter I (1)
 
 charta, -ae, f. ~ paper, map  
