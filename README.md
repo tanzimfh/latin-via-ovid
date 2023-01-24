@@ -16,7 +16,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 10](#chapter-x-10)
 - [Chapter 11](#chapter-xi-11)
 - [Chapter 12](#chapter-xii-12)
-
+- [Chapter 13](#chapter-xiii-13)
 
 ## Chapter I (1)
 
@@ -497,3 +497,56 @@ quoniam ~ since
 semper ~ always  
 sine + abl ~ without  
 vobis (dat) ~ to you (pl.)
+
+## Chapter XIII (13)
+
+amor, amoris, m. ~ love  
+color, coloris, m. ~ color  
+corpus, corporis, n. ~ body  
+Echo, f. ~ Echo (a nymph)  
+flos, floris, m. ~ flower  
+flumen, -inis, n. ~ river  
+folium, -ii, n. ~ leaf  
+fons, fontis, -ium, m. ~ fountain, pool, spring  
+imago, -inis, f. ~ image  
+iuvenis, iuvenis, iuvenum (gen. pl.), c. ~ youth, young person  
+mons, montis, -ium, m. ~ mountain  
+Narcissus, -i, m. ~ Narcissus (a youth)  
+nox, noctis, -ium, f. ~ night  
+potestas, -atis, f. ~ power  
+pudor, -oris, m. ~ shame  
+ripa, ae, f. ~ bank of a river  
+soror, -oris, f. ~ sister  
+spelunca, -ae, f. ~ cave  
+vigor, -oris, m. ~ liveliness, force, vigor  
+vox, vocis, f. ~ voice  
+desisto, -ere, -stiti, -stitum ~ desist, stop, leave off  
+devoro (1) ~ to devour, consume  
+humo (1) ~ to bury  
+inquit ~ he, she says, said  
+noceo, -ere, -ui, -itum + dat. ~ to harm  
+paro (1) ~ to prepare  
+pervideo, -ere, -vidi, -visum ~ to see through, discern, realize  
+possum, posse, potui ~ can, be able  
+puto (1) ~ to think  
+reporto (1) ~ to carry back, report  
+tango, -ere, tetigi, tactum ~ to touch  
+turbo (1) ~ to stir, disturb  
+albus, -a, -um ~ white  
+alius, -ia, -iud ~ other, another  
+obscurus, -a, -um ~ dark  
+vester, -tra, -trum ~ your (pl.)  
+adhuc (adv) ~ until now, up to this point  
+antequam (conj.) ~ before, sooner than  
+forte ~ by chance  
+haec ~ this  
+nemo, neminem (acc.) ~ no one  
+praeter + acc. ~ except  
+pro + abl. ~ in place of, before, for  
+quamquam ~ although  
+quem, rel. pro. ~ whom  
+Quem, interrog. pro. ~ Whom  
+sui, sibi, se, se, reflexive pro. ~ himself, herself, itself, themselves  
+tamen ~ nevertheless  
+usque + acc. ~ as far as  
+vos ~ you (pl.)
