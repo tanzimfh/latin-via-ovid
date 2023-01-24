@@ -302,7 +302,7 @@ unda, -ae, f. ~ wave, water, stream
 vir, viri, m. ~ man  
 celo, -are, -avi, -atum ~ to hide, conceal  
 devoveo, -ere, -vovi, -votum ~ to devote  
-erro, =are, -avi, -atum ~ wander  
+erro, -are, -avi, -atum ~ wander  
 fugito, -are, -avi, -atum ~ flee, avoid, shun  
 maneo, -ere, mansi, mansum ~ to remain, stay  
 puto, -are, -avi, -atum ~ to think  
