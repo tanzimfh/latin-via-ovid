@@ -18,6 +18,22 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 12](#chapter-xii-12)
 - [Chapter 13](#chapter-xiii-13)
 
+## Quizlets
+
+- [Chapter 1](https://quizlet.com/ca/766275534/latin-via-ovid-chapter-i-vocabulary-flash-cards/)
+- [Chapter 2](https://quizlet.com/ca/766279829/latin-via-ovid-chapter-ii-vocabulary-flash-cards/)
+- [Chapter 3](https://quizlet.com/ca/766284474/latin-via-ovid-chapter-iii-vocabulary-flash-cards/)
+- [Chapter 4](https://quizlet.com/ca/766288892/latin-via-ovid-chapter-iv-vocabulary-flash-cards/)
+- [Chapter 5](https://quizlet.com/ca/766293619/latin-via-ovid-chapter-v-vocabulary-flash-cards/)
+- [Chapter 6](https://quizlet.com/ca/766300060/latin-via-ovid-chapter-vi-vocabulary-flash-cards/)
+- [Chapter 7](https://quizlet.com/ca/766305851/latin-via-ovid-chapter-vii-vocabulary-flash-cards/)
+- [Chapter 8](https://quizlet.com/ca/766312233/latin-via-ovid-chapter-viii-vocabulary-flash-cards/)
+- [Chapter 9](https://quizlet.com/ca/766317998/latin-via-ovid-chapter-ix-vocabulary-flash-cards/)
+- [Chapter 10](https://quizlet.com/ca/766324703/latin-via-ovid-chapter-x-vocabulary-flash-cards/)
+- [Chapter 11](https://quizlet.com/ca/766331914/latin-via-ovid-chapter-xi-vocabulary-flash-cards/)
+- [Chapter 12](https://quizlet.com/ca/764283079/latin-via-ovid-chapter-xii-vocabulary-flash-cards/)
+- [Chapter 13](https://quizlet.com/ca/766669984/latin-via-ovid-chapter-xiii-vocabulary-flash-cards/)
+
 ## Chapter I (1)
 
 charta, -ae, f. ~ paper, map  
