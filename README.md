@@ -1,6 +1,6 @@
 # Latin Via Ovid Vocabulary
 
-Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separated by ` ~ `.
+Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separated by ` ~ `. See on GitHub [here](https://github.com/jere-mie/latin-via-ovid).
 
 ## Jump to a Chapter
 
@@ -149,7 +149,7 @@ nomen (nomina, pl) ~ name
 superbia, -ae, f. ~ pride  
 tela, -ae, f. ~ loom  
 affirmo, are, avi, atum ~ to affirm  
-abulo, -are, -avi, -atum ~ walk  
+ambulo, -are, -avi, -atum ~ walk  
 certo, -are, -avi, -atum ~ contend, vie with, struggle  
 debeo, -ere, -ui, -itum ~ ought, owe, should  
 dixit ~ said  
