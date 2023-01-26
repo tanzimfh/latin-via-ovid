@@ -20,6 +20,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 
 ## Quizlets
 
+- [Tricky Words](https://quizlet.com/ca/767464843/latin-via-ovid-tricky-words-flash-cards)
 - [Chapter 1](https://quizlet.com/ca/766275534/latin-via-ovid-chapter-i-vocabulary-flash-cards/)
 - [Chapter 2](https://quizlet.com/ca/766279829/latin-via-ovid-chapter-ii-vocabulary-flash-cards/)
 - [Chapter 3](https://quizlet.com/ca/766284474/latin-via-ovid-chapter-iii-vocabulary-flash-cards/)
