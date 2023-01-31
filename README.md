@@ -17,6 +17,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 11](#chapter-xi-11)
 - [Chapter 12](#chapter-xii-12)
 - [Chapter 13](#chapter-xiii-13)
+- [Chapter 14](#chapter-xiv-14)
 
 ## Quizlets
 
@@ -34,6 +35,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 11](https://quizlet.com/ca/766331914/latin-via-ovid-chapter-xi-vocabulary-flash-cards/)
 - [Chapter 12](https://quizlet.com/ca/764283079/latin-via-ovid-chapter-xii-vocabulary-flash-cards/)
 - [Chapter 13](https://quizlet.com/ca/766669984/latin-via-ovid-chapter-xiii-vocabulary-flash-cards/)
+- [Chapter 14](https://quizlet.com/ca/769055208/latin-via-ovid-chapter-xiv-vocabulary-flash-cards)
 
 ## Chapter I (1)
 
@@ -567,3 +569,47 @@ sui, sibi, se, se, reflexive pro. ~ himself, herself, itself, themselves
 tamen ~ nevertheless  
 usque + acc. ~ as far as  
 vos ~ you (pl.)
+
+## Chapter XIV (14)
+
+aqua, -ae, f. ~ water  
+arcus, m. (4th decl.) ~ bow  
+arma, -orum, n. pl. ~ arms, weapons  
+ars, artis, -ium, f. ~ skill, art  
+caput, itis n. ~ head  
+Cupido, -inis, m. ~ Cupid, Eros, Amor (son of Venus)  
+Daphne, -es, f. ~ Daphne (a nymph)  
+digitus, -i, m. ~ finger  
+dolor, doloris, m. ~ grief  
+dux, ducis, m. ~ leader  
+hostis, hostis, -ium, m. ~ enemy  
+laurus, -i, f. ~ laurel tree  
+manus, f. (4th decl.) ~ hand  
+medicina, ae, f. ~ medicine  
+musica, -ae, f. ~ music  
+osculum, -i, n. ~ kiss  
+ramus, -i, m. ~ branch, bough  
+sol, solis, m. ~ sun  
+telum, -i, n. ~ weapon, dart, missile  
+Venus, Veneris f. ~ Venus (goddess of love)  
+virgo, -inis, f. ~ maiden, young woman  
+vulnus, -eris, n. ~ wound  
+cresco, -ere, crevi, cretum ~ to increase, grow  
+dico, -ere, dixi, dictum ~ say, speak  
+facio, facere, feci, factum ~ to make, do  
+figo, figere, fixi, fixum ~ to fasten, affix, transfix, pierce  
+fugo (1) ~ to put to flight  
+nescio, -ire, nescivi, nescitum ~ to not know, be ignorant of  
+peto, -ere, petivi, petitum ~ to seek, ask  
+supero (1) ~ to overcome, conquer  
+acutus, -a, -um ~ sharp  
+alter, -era, -erum; alter ... alter ~ the other; the one ... the other  
+contentus, -a, -um ~ satisfied  
+hic, haec, hoc ~ this; he, she, it; the latter  
+ille, illa, illud ~ that, he, she, it, the former  
+obtusus, -a, -um ~ dull, blunt  
+tuus, -a, -um ~ your (sing.)  
+ei, eae, ea ~ they  
+is, ea, id ~ he, she, it  
+quod ~ which, that  
+tu ~ you
