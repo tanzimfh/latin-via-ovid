@@ -18,6 +18,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 12](#chapter-xii-12)
 - [Chapter 13](#chapter-xiii-13)
 - [Chapter 14](#chapter-xiv-14)
+- [Chapter 15](#chapter-xv-15)
 
 ## Quizlets
 
@@ -36,6 +37,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 12](https://quizlet.com/ca/764283079/latin-via-ovid-chapter-xii-vocabulary-flash-cards/)
 - [Chapter 13](https://quizlet.com/ca/766669984/latin-via-ovid-chapter-xiii-vocabulary-flash-cards/)
 - [Chapter 14](https://quizlet.com/ca/769055208/latin-via-ovid-chapter-xiv-vocabulary-flash-cards)
+- [Chapter 15](https://quizlet.com/ca/771564434/latin-via-ovid-chapter-xv-vocabulary-flash-cards)
 
 ## Chapter I (1)
 
@@ -613,3 +615,55 @@ ei, eae, ea ~ they
 is, ea, id ~ he, she, it  
 quod ~ which, that  
 tu ~ you
+
+## Chapter XV (15)
+
+amans, amantis, c. ~ one who loves, a lover  
+consilium, -ii, n. ~ plan, advice  
+cruor, oris, m ~ blood  
+domus, -us, f. ~ house, home  
+fissum, -i, n. ~ crack  
+gladius, -ii, m. ~ sword  
+herba, -ae, f. ~ grass  
+iter, iternis, n. ~ road, path, way  
+leo, leonis, m. ~ lion  
+mors, mortis, -ium f. ~ death  
+parens, parentis, c. ~ parent  
+paries, parietis, m. ~ wall  
+pomum, -i, n. ~ fruit, apple  
+Pyramus, -i, m. ~ Pyramus (a youth)  
+radix, radicis, f. ~ root, radish  
+tempus, -oris, n. ~ time  
+Thisbe, -es, f. ~ Thisbe (a maiden)  
+tumulus, -i, m. ~ grave, mound  
+velamen, -inis, n. ~ garment, covering  
+vestigium, -ii, n. ~ track, footstep  
+bibo, -ere, bibi, bibitum ~ to drink  
+convenio, -ire, -veni, -ventum ~ to meet, assemble  
+fallo, -ere, fefelli, falsum ~ to deceive  
+fugio, -ere, fugi, -itum ~ to flee  
+murmuro (1) ~ to murmur  
+opto (1) ~ to wish for, desire  
+pervenio, -ire, -veni, -ventum ~ to arrive  
+quaero, ere, quaesivi, quaesitum ~ to seek, ask, inquire  
+quaeso, -ere; quaeso (te) ~ seek, beg; I beg (you), please  
+relinquo, -ere, reliqui, relictum ~ to leave behind  
+sentio, -ire, sensi, -sum ~ to feel, know, sense  
+traho, -ere, traxi, -ctum ~ to draw, draw out, drag  
+venio, -ire, veni, ventum ~ to come  
+albus, -a, -um ~ white  
+cruentus, -a, -um ~ bloody  
+dignus, -a, -um + abl ~ worthy (of)  
+prior, prius (comparative) ~ before, earlier  
+purpureus, -a, -um ~ purple  
+vicinus, -a, -um + dat. ~ neighboring, near (to)  
+e, ex + abl. ~ out of, from, out from  
+hinc ~ here, on this side, hence  
+illinc ~ there, on that side, thence  
+procul ~ at a distance  
+qui, quae, quod ~ who, which  
+quia ~ because  
+recens ~ recently  
+sub + acc. or abl. ~ under, beneath  
+ut ~ as, like  
+utrimque ~ on each side, on both sides
