@@ -19,6 +19,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 13](#chapter-xiii-13)
 - [Chapter 14](#chapter-xiv-14)
 - [Chapter 15](#chapter-xv-15)
+- [Chapter 16](#chapter-xvi-16)
 
 ## Quizlets
 
@@ -38,6 +39,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 13](https://quizlet.com/ca/766669984/latin-via-ovid-chapter-xiii-vocabulary-flash-cards/)
 - [Chapter 14](https://quizlet.com/ca/769055208/latin-via-ovid-chapter-xiv-vocabulary-flash-cards)
 - [Chapter 15](https://quizlet.com/ca/771564434/latin-via-ovid-chapter-xv-vocabulary-flash-cards)
+- [Chapter 16](https://quizlet.com/ca/774070346/latin-via-ovid-chapter-xvi-vocabulary-flash-cards)
 
 ## Chapter I (1)
 
@@ -667,3 +669,28 @@ recens ~ recently
 sub + acc. or abl. ~ under, beneath  
 ut ~ as, like  
 utrimque ~ on each side, on both sides
+
+## Chapter XVI (16)
+
+cinis, -eris, m. ~ ashes  
+comes, comitis, c. ~ companion, sharer  
+hora, -ae, f. ~ hour  
+monumentum, -i, n. ~ memorial, reminder  
+periculum, -i, n. ~ danger  
+urna, ae, f. ~ urn, vessel of baked clay  
+aperio, -ire, -ui, -pertum ~ to open  
+audio, -ire, -ivi, -itum ~ to hear  
+claudo, -ere, clausi, clausum ~ to close  
+inquit ~ says, said  
+lego, -ere, legi, lectum ~ to read, gather, choose  
+mitto, -ere, misi, missum ~ to send  
+nomino (1) ~ to call, name  
+pono, -ere, posui, positum ~ to put, place  
+rapio, -ere, -ui, raptum ~ to seize, carry off  
+incertus, -a, -um ~ uncertain, unsure  
+mortuus, -a, -um ~ dead  
+at (introducing a contrary idea) ~ but, yet, but meanwhile  
+atque ~ and, and also  
+nam ~ for  
+non iam ~ no longer (book says for, because)  
+quos ~ whom, acc. pl.
