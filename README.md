@@ -20,6 +20,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 14](#chapter-xiv-14)
 - [Chapter 15](#chapter-xv-15)
 - [Chapter 16](#chapter-xvi-16)
+- [Chapter 17](#chapter-xvii-17)
 
 ## Quizlets
 
@@ -40,6 +41,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 14](https://quizlet.com/ca/769055208/latin-via-ovid-chapter-xiv-vocabulary-flash-cards)
 - [Chapter 15](https://quizlet.com/ca/771564434/latin-via-ovid-chapter-xv-vocabulary-flash-cards)
 - [Chapter 16](https://quizlet.com/ca/774070346/latin-via-ovid-chapter-xvi-vocabulary-flash-cards)
+- [Chapter 17](https://quizlet.com/ca/778693496/latin-via-ovid-chapter-xvii-vocabulary-flash-cards/)
 
 ## Chapter I (1)
 
@@ -694,3 +696,51 @@ atque ~ and, and also
 nam ~ for  
 non iam ~ no longer (book says for, because)  
 quos ~ whom, acc. pl.
+
+## Chapter XVII (17)
+
+aetas, aetatis, f. ~ age  
+audacia, -ae, f. ~ boldness  
+avus, i, m. ~ grandfather  
+certamen, -minis, n. ~ contest, struggle  
+cornu, -us, n. ~ horn, end, tip  
+culpa, -ae, f. ~ guilt, fault, blame  
+cura, -ae, f. ~ care, concern  
+cursus, -us, m. ~ running, course  
+ignis, ignis, -ium, m. ~ fire  
+lex, legis, f. ~ law  
+Megareus, -i, m. ~ Megareus (a king)  
+Neptunus, -i, m. ~ Neptune (sea god)  
+procus, i, m. ~ suitor  
+rumor -oris m. ~ rumor, hearsay  
+spectator, -oris, m. ~ spectator  
+turba, -ae, f. ~ crowd  
+victoria, -ae, f. ~ victory  
+adduco, -ere, -duxi, -ductum ~ bring to, draw to, influence  
+capio, -ere, cepi, captum ~ to capture, take  
+corono (1) ~ to crown  
+culpo (1) ~ to blame  
+damnno (1) ~ to condemn  
+eo, ire, ii (ivi), itum ~ to go  
+ignosco, -ere, -novi, notum + dat. ~ to forgive  
+moveo, -ere, movi, motum ~ to move, stir  
+scio, scire, scivi or scii, scitum ~ to know  
+sono (1) ~ to sound  
+supero (1) ~ to surpass, rise above, conquer  
+vinco, -ere, vici, victum ~ to conquer, defeat, get the better of, vanquish, be victorious  
+deterritus, -a, -um ~ deterred  
+durus, -a, -um ~ hard, harsh  
+innubus, -a, -um ~ unwed  
+tantus, -a, -um ~ such a great, so great  
+tardus, -a, -um ~ late, slow  
+victus, -a, -um ~ conquered, beaten  
+an ~ or  
+forsitan ~ perhaps  
+magis ~ more  
+nisi ~ unless, if ... not  
+nondum ~ not yet  
+qui, quae, quod ~ who, which, that  
+tam ~ so  
+(non) tardius ~ (not) more slowly  
+vere ~ truly  
+videtur ~ he, she, it seems (passive of see)
