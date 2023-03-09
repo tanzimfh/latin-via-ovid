@@ -21,7 +21,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 15](#chapter-xv-15)
 - [Chapter 16](#chapter-xvi-16)
 - [Chapter 17](#chapter-xvii-17)
-- [Chapter 17](#chapter-xviii-18)
+- [Chapter 18](#chapter-xviii-18)
 
 ## Quizlets
 
@@ -43,7 +43,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 15](https://quizlet.com/ca/771564434/latin-via-ovid-chapter-xv-vocabulary-flash-cards)
 - [Chapter 16](https://quizlet.com/ca/774070346/latin-via-ovid-chapter-xvi-vocabulary-flash-cards)
 - [Chapter 17](https://quizlet.com/ca/778693496/latin-via-ovid-chapter-xvii-vocabulary-flash-cards/)
-- [Chapter 17](https://quizlet.com/ca/781794693/latin-via-ovid-chapter-xviii-vocabulary-flash-cards/)
+- [Chapter 18](https://quizlet.com/ca/781794693/latin-via-ovid-chapter-xviii-vocabulary-flash-cards/)
 
 ## Chapter I (1)
 
