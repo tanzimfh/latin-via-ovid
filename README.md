@@ -21,6 +21,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 15](#chapter-xv-15)
 - [Chapter 16](#chapter-xvi-16)
 - [Chapter 17](#chapter-xvii-17)
+- [Chapter 17](#chapter-xviii-18)
 
 ## Quizlets
 
@@ -42,6 +43,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 15](https://quizlet.com/ca/771564434/latin-via-ovid-chapter-xv-vocabulary-flash-cards)
 - [Chapter 16](https://quizlet.com/ca/774070346/latin-via-ovid-chapter-xvi-vocabulary-flash-cards)
 - [Chapter 17](https://quizlet.com/ca/778693496/latin-via-ovid-chapter-xvii-vocabulary-flash-cards/)
+- [Chapter 17](https://quizlet.com/ca/781794693/latin-via-ovid-chapter-xviii-vocabulary-flash-cards/)
 
 ## Chapter I (1)
 
@@ -744,3 +746,54 @@ tam ~ so
 (non) tardius ~ (not) more slowly  
 vere ~ truly  
 videtur ~ he, she, it seems (passive of see)
+
+## Chapter XVIII (18)
+
+auctor, -oris, m. ~ author  
+cursor, -oris, m. ~ runner  
+Cyprus, -i, f. ~ the island of Cyprus  
+heros -ois m. ~ hero  
+liber, -bri, m. ~ book  
+meta, -ae, f. ~ goal, post  
+pagina, -ae, f. ~ page  
+prex, precis, f. (usually plural) ~ prayers  
+sententia, -ae, f. ~ thought, sentence  
+signum, -i, n. ~ signal, sign  
+tabula, -ae, f. ~ board, plank, table  
+usus, usus, m. ~ use, practice  
+adduco, -ere, -duxi, -ductum ~ to influence  
+adoro (1) ~ to adore  
+carpo, -ere, carpsi, carptum ~ to pick, pluck  
+concino, -ere, -ui ~ to sound in chorus  
+curro, -ere, cucurri, cursum ~ to run  
+duco, -ere, duxi, ductum ~ to lead  
+gaudeo, -ere, ieci, iactum ~ to throw  
+iacio, -ere, ieci, iactum ~ to throw  
+inquit ~ says, said  
+posco, -ere, poposci ~ to request, demand  
+praetereo, -ire, -ii, -itum ~ to go past, pass by  
+promitto, -ere, -misi, promissum ~ to promise  
+scribo, -ere, scripsi, -ptum ~ to write  
+aureus, -a, -um ~ golden  
+defessus, -a, -um ~ tired, worn out, weary  
+invitus, -a, -um ~ unwilling  
+medius, -a, -um ~ middle of  
+motus, -a, -um ~ moved, influenced  
+remoratus, -a, -um ~ delayed again, hindered  
+summus, -a, -um ~ top of, highest  
+tertius, -a, -um ~ third  
+demum ~ at last, finally  
+facile ~ easily  
+forte ~ by chance  
+iam ~ now, already  
+igitur ~ therefore  
+interea ~ meanwhile  
+longe ~ far away  
+magnopere ~ very greatly  
+nec... nec ~ neither... nor  
+no solum... sed etiam ~ not only... but also  
+oblique ~ to the side  
+quomodo ~ how, in what manner  
+secreto ~ secretly, apart  
+vix ~ scarcely  
+hoc modo ~ in this manner, thus
