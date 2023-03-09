@@ -767,7 +767,7 @@ carpo, -ere, carpsi, carptum ~ to pick, pluck
 concino, -ere, -ui ~ to sound in chorus  
 curro, -ere, cucurri, cursum ~ to run  
 duco, -ere, duxi, ductum ~ to lead  
-gaudeo, -ere, ieci, iactum ~ to throw  
+gaudeo, -ere, ieci, iactum ~ to rejoice  
 iacio, -ere, ieci, iactum ~ to throw  
 inquit ~ says, said  
 posco, -ere, poposci ~ to request, demand  
