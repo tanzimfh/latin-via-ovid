@@ -22,6 +22,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 16](#chapter-xvi-16)
 - [Chapter 17](#chapter-xvii-17)
 - [Chapter 18](#chapter-xviii-18)
+- [Chapter 19](#chapter-xix-19)
 
 ## Quizlets
 
@@ -44,6 +45,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 16](https://quizlet.com/ca/774070346/latin-via-ovid-chapter-xvi-vocabulary-flash-cards)
 - [Chapter 17](https://quizlet.com/ca/778693496/latin-via-ovid-chapter-xvii-vocabulary-flash-cards/)
 - [Chapter 18](https://quizlet.com/ca/781794693/latin-via-ovid-chapter-xviii-vocabulary-flash-cards/)
+- [Chapter 19](https://quizlet.com/ca/783437182/latin-via-ovid-chapter-xix-vocabulary-flash-cards/)
 
 ## Chapter I (1)
 
@@ -797,3 +799,48 @@ quomodo ~ how, in what manner
 secreto ~ secretly, apart  
 vix ~ scarcely  
 hoc modo ~ in this manner, thus
+
+## Chapter XVIII (18)
+
+aurum, -r, n. ~ gold  
+Bacchus, -i, m. ~ Bacchus (god of wine)  
+caro, carnis, f. ~ flesh, meat  
+Ceres, Cereris f. ~ Ceres (goddess of agriculture)  
+crimen, -inis, n. ~ sin, crime, fault  
+dies, diei, m. ~ day  
+maestitia, -ae, f. ~ sadness  
+Midas, Midae, m. ~ Midas (King of Phrygia)  
+ortus, -us, m. ~ source, origin  
+postis, -is, -ium, m. ~ door post  
+res, rei, f. ~ thing, object; pl., situation  
+saxum, -i, n. ~ rock, stone  
+venia, -ae, f. ~ pardon, favor  
+vis, f. ~ force, strength; touch  
+bibo, -ere, bibi, bibitum ~ to drink  
+credo, -ere, -didi, -ditum + dat. ~ to believe, trust  
+edo, -ere, edi, esum ~ to eat  
+fluo, -ere, fluxi, fluxum ~ to flow  
+lavo, -are, lavi, lautum or lotum ~ to wash  
+odi, odisse (perfect used as present) ~ I hate  
+pecco (1) ~ to sin, make a mistake, err  
+remitto, -ere, -misi, -missum ~ to send back, let go back, drive away  
+removeo, -ere, -movi, -motum ~ to remove, take away, put off  
+tendo, -ere, tetendi, tentum or tensum ~ to stretch out, extend  
+transeo, -ire, -ii (-ivi), -itum ~ to go across, pass over, cross  
+adversus, -a, -um ~ unfavorable  
+altus, -a, -um ~ tall, lofty, deep, high  
+damnosus, -a, -um ~ ruinous  
+liquidus, -a, -um ~ liquid  
+maestus, -a, -um ~ sad, gloomy  
+omnis, -e ~ each, every; pl., all  
+onustus, -a, -um ~ laden  
+secundus, -a, -um ~ following, favorable, second  
+talis, -e ~ such (a)  
+viridis, -e ~ green  
+atque (ac) ~ and, and also  
+cum, conj. ~ when  
+cupide ~ eagerly  
+etiamnunc ~ yet, still  
+praeterea ~ in addition, further, besides, moreover  
+simul ~ at the same time  
+simul... simul ~ not only... but at the same time
