@@ -800,7 +800,7 @@ secreto ~ secretly, apart
 vix ~ scarcely  
 hoc modo ~ in this manner, thus
 
-## Chapter XVIII (18)
+## Chapter XIX (19)
 
 aurum, -r, n. ~ gold  
 Bacchus, -i, m. ~ Bacchus (god of wine)  
