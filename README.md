@@ -653,7 +653,7 @@ fugio, -ere, fugi, -itum ~ to flee
 murmuro (1) ~ to murmur  
 opto (1) ~ to wish for, desire  
 pervenio, -ire, -veni, -ventum ~ to arrive  
-quaero, ere, quaesivi, quaesitum ~ to seek, ask, inquire  
+quaero, -ere, quaesivi, quaesitum ~ to seek, ask, inquire  
 quaeso, -ere; quaeso (te) ~ seek, beg; I beg (you), please  
 relinquo, -ere, reliqui, relictum ~ to leave behind  
 sentio, -ire, sensi, -sum ~ to feel, know, sense  
