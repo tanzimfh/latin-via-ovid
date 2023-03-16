@@ -754,7 +754,7 @@ videtur ~ he, she, it seems (passive of see)
 auctor, -oris, m. ~ author  
 cursor, -oris, m. ~ runner  
 Cyprus, -i, f. ~ the island of Cyprus  
-heros -ois m. ~ hero  
+heros, -ois, m. ~ hero  
 liber, -bri, m. ~ book  
 meta, -ae, f. ~ goal, post  
 pagina, -ae, f. ~ page  
