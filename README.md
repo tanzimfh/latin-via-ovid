@@ -715,8 +715,8 @@ ignis, ignis, -ium, m. ~ fire
 lex, legis, f. ~ law  
 Megareus, -i, m. ~ Megareus (a king)  
 Neptunus, -i, m. ~ Neptune (sea god)  
-procus, i, m. ~ suitor  
-rumor -oris m. ~ rumor, hearsay  
+procus, -i, m. ~ suitor  
+rumor, -oris, m. ~ rumor, hearsay  
 spectator, -oris, m. ~ spectator  
 turba, -ae, f. ~ crowd  
 victoria, -ae, f. ~ victory  
