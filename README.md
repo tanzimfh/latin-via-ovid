@@ -23,6 +23,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 17](#chapter-xvii-17)
 - [Chapter 18](#chapter-xviii-18)
 - [Chapter 19](#chapter-xix-19)
+- [Chapter 20](#chapter-xx-20)
 
 ## Quizlets
 
@@ -46,6 +47,7 @@ Vocabulary from the textbook "Latin Via Ovid." Latin and English terms are separ
 - [Chapter 17](https://quizlet.com/ca/778693496/latin-via-ovid-chapter-xvii-vocabulary-flash-cards/)
 - [Chapter 18](https://quizlet.com/ca/781794693/latin-via-ovid-chapter-xviii-vocabulary-flash-cards/)
 - [Chapter 19](https://quizlet.com/ca/783437182/latin-via-ovid-chapter-xix-vocabulary-flash-cards/)
+- [Chapter 20](https://quizlet.com/ca/786267715/latin-via-ovid-chapter-xx-vocabulary-flash-cards/)
 
 ## Chapter I (1)
 
@@ -844,3 +846,47 @@ etiamnunc ~ yet, still
 praeterea ~ in addition, further, besides, moreover  
 simul ~ at the same time  
 simul... simul ~ not only... but at the same time
+
+## Chapter XX (20)
+
+Apollo, -inis, m. ~ Apollo (god of music and medicine)  
+auris, auris, -ium, f. ~ ear  
+carmen, -inis, n. ~ song  
+gemma, -ae, f. ~ jewel, gem  
+iudex, -icis, m. ~ judge  
+iudicium, -ii, n. ~ judgement  
+lyra, -ae, f. ~ lyre  
+ventus, -i, m. ~ wind  
+abeo, -ire, -ivi or -ii, -itum ~ to go away  
+canto (1) ~ to sing, make music  
+coepi, coepisse, coeptum (defective) ~ began  
+colo, -ere, -ui, cultum ~ to till, cultivate, honor, worship  
+conor, conari, conatus sum ~ to attempt, try  
+contemno, -ere, -tempsi, -temptum ~ to value little, disdain  
+decoro (1) ~ to adorn, decorate  
+desum, -esse, -fui, futurum ~ to be absent, be lacking, missing  
+effodio, -ere, -fodi, -fossum ~ to dig  
+gero, -ere, gessi, gestum ~ to bear, carry, wear, accomplish, do  
+immurmuro (1) ~ to whisper into  
+inflo (1) ~ to blow into  
+libero (1) ~ to free, set free, liberate  
+loquor, loqui, locutus sum ~ to speak, say  
+miror, mirari, miratus sum ~ wonder at, admire  
+patior, pati, passus sum ~ to allow, suffer, permit  
+orior, oriri, ortus sum ~ to rise  
+repono, -ere, -posui, -positum ~ to put back, replace  
+reseco, -are, -ui, -tum ~ to cut off  
+submitto, -ere, -misi, -missum ~ to put down, lower, humble, yield  
+taceo, -ere, -ui, -itum ~ to be silent  
+termino (1) ~ to end, finish  
+vereor, vereri, veritus sum ~ to fear, be afraid  
+verto, -ere, verti, versum ~ to turn  
+barbarus, -a, -um ~ rough, rude, foreign  
+dexter, -tra, -trum ~ right, skillful  
+humanus, -a, -um ~ human, humane  
+iniustus, -a, -um ~ unjust, unfair  
+sinister, -tra, -trum ~ left, adverse  
+villosus, -a, -um ~ shaggy, hairy  
+nam ~ for  
+postea ~ afterwards, thereafter, after that  
+tum ~ then
