@@ -1,7 +1,7 @@
 # Latin Via Ovid Vocabulary
 
-Vocabulary from the textbook "Latin Via Ovid." Originally created by
-[Jeremie Bornais](https://jeremie.bornais.ca/), this version hides the English
+Vocabulary from the textbook "Latin Via Ovid." This variation of the
+[original](https://latin.gh.bornais.ca/) by Jeremie Bornais hides the English
 translations until clicked on and is quicker to go through than the flashcards
 on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
