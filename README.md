@@ -57,142 +57,142 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>charta, -ae, f.</summary>
-    paper, map
+    &emsp;paper, map
 </details>
 
 <details>
     <summary>Europa, -ae, f.</summary>
-    Europa (the maiden); also Europe, the continent
+    &emsp;Europa (the maiden); also Europe, the continent
 </details>
 
 <details>
     <summary>fabula, -ae, f.</summary>
-    story
+    &emsp;story
 </details>
 
 <details>
     <summary>insula, -ae, f.</summary>
-    island
+    &emsp;island
 </details>
 
 <details>
     <summary>paeninsula, -ae, f.</summary>
-    peninsula
+    &emsp;peninsula
 </details>
 
 <details>
     <summary>puella, -ae, f.</summary>
-    girl, maiden
+    &emsp;girl, maiden
 </details>
 
 <details>
     <summary>regina, -ae, f.</summary>
-    queen
+    &emsp;queen
 </details>
 
 <details>
     <summary>terra, -ae, f.</summary>
-    land, country, earth
+    &emsp;land, country, earth
 </details>
 
 <details>
     <summary>est</summary>
-    is
+    &emsp;is
 </details>
 
 <details>
     <summary>habitat: habitavit</summary>
-    lives: lived
+    &emsp;lives: lived
 </details>
 
 <details>
     <summary>regnat (regnavit)</summary>
-    rules (ruled)
+    &emsp;rules (ruled)
 </details>
 
 <details>
     <summary>spectate/specta</summary>
-    look at (command)
+    &emsp;look at (command)
 </details>
 
 <details>
     <summary>sunt</summary>
-    are
+    &emsp;are
 </details>
 
 <details>
     <summary>bona</summary>
-    good
+    &emsp;good
 </details>
 
 <details>
     <summary>geographica</summary>
-    geographical
+    &emsp;geographical
 </details>
 
 <details>
     <summary>magna</summary>
-    large
+    &emsp;large
 </details>
 
 <details>
     <summary>parva</summary>
-    small
+    &emsp;small
 </details>
 
 <details>
     <summary>prima</summary>
-    first
+    &emsp;first
 </details>
 
 <details>
     <summary>pulchra</summary>
-    beautiful, pretty, fair
+    &emsp;beautiful, pretty, fair
 </details>
 
 <details>
     <summary>et</summary>
-    and
+    &emsp;and
 </details>
 
 <details>
     <summary>hic</summary>
-    here
+    &emsp;here
 </details>
 
 <details>
     <summary>in</summary>
-    (with ablative case) in, on
+    &emsp;(with ablative case) in, on
 </details>
 
 <details>
     <summary>ita</summary>
-    yes, thus, so
+    &emsp;yes, thus, so
 </details>
 
 <details>
     <summary>-ne</summary>
-    enclitic: asks a question
+    &emsp;enclitic: asks a question
 </details>
 
 <details>
     <summary>non</summary>
-    not
+    &emsp;not
 </details>
 
 <details>
     <summary>paene</summary>
-    almost
+    &emsp;almost
 </details>
 
 <details>
     <summary>sed</summary>
-    but
+    &emsp;but
 </details>
 
 <details>
     <summary>ubi</summary>
-    where
+    &emsp;where
 </details>
 
 
@@ -200,152 +200,152 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>amica, amicae, f.</summary>
-    friend (female)
+    &emsp;friend (female)
 </details>
 
 <details>
     <summary>amicus, amici, m.</summary>
-    friend (male)
+    &emsp;friend (male)
 </details>
 
 <details>
     <summary>deus, dei, m.</summary>
-    god
+    &emsp;god
 </details>
 
 <details>
     <summary>filia, -ae, f.</summary>
-    daughter
+    &emsp;daughter
 </details>
 
 <details>
     <summary>Iuppiter, Iovis, m.</summary>
-    Jupiter
+    &emsp;Jupiter
 </details>
 
 <details>
     <summary>Ovidius, Ovidii, m.</summary>
-    Ovid (the poet)
+    &emsp;Ovid (the poet)
 </details>
 
 <details>
     <summary>poeta, poetae, m.</summary>
-    poet
+    &emsp;poet
 </details>
 
 <details>
     <summary>rex, regis, m.</summary>
-    king
+    &emsp;king
 </details>
 
 <details>
     <summary>taurus, tauri m.</summary>
-    bull
+    &emsp;bull
 </details>
 
 <details>
     <summary>Tyrus, -i (f.)</summary>
-    Tyre
+    &emsp;Tyre
 </details>
 
 <details>
     <summary>amat/amant</summary>
-    (he/she) likes, loves / (they) like, love
+    &emsp;(he/she) likes, loves / (they) like, love
 </details>
 
 <details>
     <summary>desiderat</summary>
-    he/she/it desires
+    &emsp;he/she/it desires
 </details>
 
 <details>
     <summary>fugitat</summary>
-    he/she/it flees
+    &emsp;he/she/it flees
 </details>
 
 <details>
     <summary>ludit, ludere</summary>
-    to play
+    &emsp;to play
 </details>
 
 <details>
     <summary>narrat: narravit</summary>
-    tells
+    &emsp;tells
 </details>
 
 <details>
     <summary>portat</summary>
-    carries
+    &emsp;carries
 </details>
 
 <details>
     <summary>spectat</summary>
-    looks at, watches
+    &emsp;looks at, watches
 </details>
 
 <details>
     <summary>transformat</summary>
-    transforms, changes
+    &emsp;transforms, changes
 </details>
 
 <details>
     <summary>novus, -a, -um</summary>
-    new, strange
+    &emsp;new, strange
 </details>
 
 <details>
     <summary>timidus, -a, -um</summary>
-    shy, timid
+    &emsp;shy, timid
 </details>
 
 <details>
     <summary>Phoenicius, Phoenicia, Phoenicium</summary>
-    Phoenician
+    &emsp;Phoenician
 </details>
 
 <details>
     <summary>Tyrius, a, um</summary>
-    Tyrian
+    &emsp;Tyrian
 </details>
 
 <details>
     <summary>ad + acc</summary>
-    to, toward, near
+    &emsp;to, toward, near
 </details>
 
 <details>
     <summary>cum + abl</summary>
-    with
+    &emsp;with
 </details>
 
 <details>
     <summary>de + abl</summary>
-    about, concerning, down from
+    &emsp;about, concerning, down from
 </details>
 
 <details>
     <summary>diu</summary>
-    for a long time, a long while, long
+    &emsp;for a long time, a long while, long
 </details>
 
 <details>
     <summary>nunc</summary>
-    now
+    &emsp;now
 </details>
 
 <details>
     <summary>olim</summary>
-    once, once upon a time
+    &emsp;once, once upon a time
 </details>
 
 <details>
     <summary>Quis?</summary>
-    who
+    &emsp;who
 </details>
 
 <details>
     <summary>se</summary>
-    himself, herself, itself, themselves
+    &emsp;himself, herself, itself, themselves
 </details>
 
 
@@ -353,187 +353,187 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>agricola, agricolae, m.</summary>
-    farmer
+    &emsp;farmer
 </details>
 
 <details>
     <summary>Arachne (f)</summary>
-    Arachne (a maiden)
+    &emsp;Arachne (a maiden)
 </details>
 
 <details>
     <summary>casa, -ae, f.</summary>
-    house
+    &emsp;house
 </details>
 
 <details>
     <summary>dea, -ae, f</summary>
-    goddess
+    &emsp;goddess
 </details>
 
 <details>
     <summary>discipuli, -orum, m</summary>
-    students
+    &emsp;students
 </details>
 
 <details>
     <summary>incola, -ae, common</summary>
-    inhabitant
+    &emsp;inhabitant
 </details>
 
 <details>
     <summary>lana, -ae (f)</summary>
-    wool, spinning
+    &emsp;wool, spinning
 </details>
 
 <details>
     <summary>Lydia, -ae, f.</summary>
-    Lydia (a country in Asia Minor)
+    &emsp;Lydia (a country in Asia Minor)
 </details>
 
 <details>
     <summary>magister, tri, m</summary>
-    teacher (male)
+    &emsp;teacher (male)
 </details>
 
 <details>
     <summary>magistra, magistrae, f.</summary>
-    teacher (female)
+    &emsp;teacher (female)
 </details>
 
 <details>
     <summary>Minerva, -ae, f.</summary>
-    Minerva (a goddess)
+    &emsp;Minerva (a goddess)
 </details>
 
 <details>
     <summary>nympha, -ae, f.</summary>
-    nymph
+    &emsp;nymph
 </details>
 
 <details>
     <summary>pictura, picturae, f.</summary>
-    picture
+    &emsp;picture
 </details>
 
 <details>
     <summary>sapientia, -ae, f.</summary>
-    wisdom
+    &emsp;wisdom
 </details>
 
 <details>
     <summary>silva, -ae, f.</summary>
-    forest
+    &emsp;forest
 </details>
 
 <details>
     <summary>vita, -ae, f.</summary>
-    life
+    &emsp;life
 </details>
 
 <details>
     <summary>clamat, clamant</summary>
-    shout, exclaim
+    &emsp;shout, exclaim
 </details>
 
 <details>
     <summary>dat: dedit</summary>
-    gives
+    &emsp;gives
 </details>
 
 <details>
     <summary>docet, docent</summary>
-    to teach
+    &emsp;to teach
 </details>
 
 <details>
     <summary>format, formant</summary>
-    make, shape, fashion, form
+    &emsp;make, shape, fashion, form
 </details>
 
 <details>
     <summary>glomerat, glomerant</summary>
-    wind into a ball
+    &emsp;wind into a ball
 </details>
 
 <details>
     <summary>laborat, laborant</summary>
-    to work
+    &emsp;to work
 </details>
 
 <details>
     <summary>laudat, laudant</summary>
-    praise
+    &emsp;praise
 </details>
 
 <details>
     <summary>salve, salvete</summary>
-    greetings, hello, Hail
+    &emsp;greetings, hello, Hail
 </details>
 
 <details>
     <summary>vale, valete</summary>
-    farewell, goodbye
+    &emsp;farewell, goodbye
 </details>
 
 <details>
     <summary>perita</summary>
-    skilled, skillful
+    &emsp;skilled, skillful
 </details>
 
 <details>
     <summary>superba</summary>
-    proud
+    &emsp;proud
 </details>
 
 <details>
     <summary>bene</summary>
-    well
+    &emsp;well
 </details>
 
 <details>
     <summary>certe</summary>
-    surely, certainly
+    &emsp;surely, certainly
 </details>
 
 <details>
     <summary>dum + present indicative</summary>
-    while
+    &emsp;while
 </details>
 
 <details>
     <summary>me</summary>
-    me, myself
+    &emsp;me, myself
 </details>
 
 <details>
     <summary>quid</summary>
-    what
+    &emsp;what
 </details>
 
 <details>
     <summary>quod</summary>
-    because
+    &emsp;because
 </details>
 
 <details>
     <summary>quoque</summary>
-    also
+    &emsp;also
 </details>
 
 <details>
     <summary>saepe</summary>
-    often
+    &emsp;often
 </details>
 
 <details>
     <summary>te (acc. or abl.)</summary>
-    you
+    &emsp;you
 </details>
 
 <details>
     <summary>tibi (dat.)</summary>
-    to you, you
+    &emsp;to you, you
 </details>
 
 
@@ -541,187 +541,187 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>domina, -ae, f.</summary>
-    lady, mistress of the household
+    &emsp;lady, mistress of the household
 </details>
 
 <details>
     <summary>dominus, -i, m.</summary>
-    lord, master, mister
+    &emsp;lord, master, mister
 </details>
 
 <details>
     <summary>experientia, -ae, f.</summary>
-    experience
+    &emsp;experience
 </details>
 
 <details>
     <summary>femina, -ae, f.</summary>
-    woman
+    &emsp;woman
 </details>
 
 <details>
     <summary>forma, -ae, f.</summary>
-    form, shape
+    &emsp;form, shape
 </details>
 
 <details>
     <summary>nomen (nomina, pl)</summary>
-    name
+    &emsp;name
 </details>
 
 <details>
     <summary>superbia, -ae, f.</summary>
-    pride
+    &emsp;pride
 </details>
 
 <details>
     <summary>tela, -ae, f.</summary>
-    loom
+    &emsp;loom
 </details>
 
 <details>
     <summary>affirmo, are, avi, atum</summary>
-    to affirm
+    &emsp;to affirm
 </details>
 
 <details>
     <summary>ambulo, -are, -avi, -atum</summary>
-    walk
+    &emsp;walk
 </details>
 
 <details>
     <summary>certo, -are, -avi, -atum</summary>
-    contend, vie with, struggle
+    &emsp;contend, vie with, struggle
 </details>
 
 <details>
     <summary>debeo, -ere, -ui, -itum</summary>
-    ought, owe, should
+    &emsp;ought, owe, should
 </details>
 
 <details>
     <summary>dixit</summary>
-    said
+    &emsp;said
 </details>
 
 <details>
     <summary>doceo, -ere, -ui, doctum</summary>
-    teach
+    &emsp;teach
 </details>
 
 <details>
     <summary>esse</summary>
-    to be
+    &emsp;to be
 </details>
 
 <details>
     <summary>habeo, -ere, -ui, -itum</summary>
-    have, hold
+    &emsp;have, hold
 </details>
 
 <details>
     <summary>monstro, -are, -avi, -atum</summary>
-    to show
+    &emsp;to show
 </details>
 
 <details>
     <summary>nego, are, avi, atum</summary>
-    to deny, say that...not
+    &emsp;to deny, say that...not
 </details>
 
 <details>
     <summary>quaeso</summary>
-    please (lit., I ask)
+    &emsp;please (lit., I ask)
 </details>
 
 <details>
     <summary>respondeo, -ere, respondi, -sum</summary>
-    reply, respond, answer
+    &emsp;reply, respond, answer
 </details>
 
 <details>
     <summary>scribite (pl.)</summary>
-    write (command)
+    &emsp;write (command)
 </details>
 
 <details>
     <summary>simulo, -are, -avi, -atum</summary>
-    imitate, copy, pretend, take the form of
+    &emsp;imitate, copy, pretend, take the form of
 </details>
 
 <details>
     <summary>tempto, -are, -avi, -atum</summary>
-    to try, attempt
+    &emsp;to try, attempt
 </details>
 
 <details>
     <summary>voco, -are, -avi, -atum</summary>
-    to call, summon
+    &emsp;to call, summon
 </details>
 
 <details>
     <summary>irata</summary>
-    angry, irate
+    &emsp;angry, irate
 </details>
 
 <details>
     <summary>mea</summary>
-    my
+    &emsp;my
 </details>
 
 <details>
     <summary>periculosa</summary>
-    dangerous
+    &emsp;dangerous
 </details>
 
 <details>
     <summary>stulta</summary>
-    stupid, foolish
+    &emsp;stupid, foolish
 </details>
 
 <details>
     <summary>sua</summary>
-    his own, her own, its own, their own
+    &emsp;his own, her own, its own, their own
 </details>
 
 <details>
     <summary>temeraria</summary>
-    rash
+    &emsp;rash
 </details>
 
 <details>
     <summary>etiam</summary>
-    still, yet
+    &emsp;still, yet
 </details>
 
 <details>
     <summary>huc</summary>
-    here, to this place
+    &emsp;here, to this place
 </details>
 
 <details>
     <summary>iterum</summary>
-    again
+    &emsp;again
 </details>
 
 <details>
     <summary>melius quam</summary>
-    better than
+    &emsp;better than
 </details>
 
 <details>
     <summary>mihi (dat.)</summary>
-    to me
+    &emsp;to me
 </details>
 
 <details>
     <summary>nemo</summary>
-    no one
+    &emsp;no one
 </details>
 
 <details>
     <summary>-que</summary>
-    and
+    &emsp;and
 </details>
 
 
@@ -729,137 +729,137 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>aranea, -ae, f.</summary>
-    spider
+    &emsp;spider
 </details>
 
 <details>
     <summary>factis (abl. pl.)</summary>
-    deeds
+    &emsp;deeds
 </details>
 
 <details>
     <summary>Iuppiter, Iove (abl.)</summary>
-    Jupiter, Jove
+    &emsp;Jupiter, Jove
 </details>
 
 <details>
     <summary>misericordia, -ae f.</summary>
-    pity
+    &emsp;pity
 </details>
 
 <details>
     <summary>rapina, ae f.</summary>
-    carrying off, robbery
+    &emsp;carrying off, robbery
 </details>
 
 <details>
     <summary>muto, -are, -avi, -atum</summary>
-    change
+    &emsp;change
 </details>
 
 <details>
     <summary>neco, -are, -avi, -atum</summary>
-    to kill
+    &emsp;to kill
 </details>
 
 <details>
     <summary>pendeo, -ere, pependi, pensum</summary>
-    to hang
+    &emsp;to hang
 </details>
 
 <details>
     <summary>prohibeo, -ere, -ui, -itum</summary>
-    prevent, stop, prohibit
+    &emsp;prevent, stop, prohibit
 </details>
 
 <details>
     <summary>bona</summary>
-    good
+    &emsp;good
 </details>
 
 <details>
     <summary>longa</summary>
-    long
+    &emsp;long
 </details>
 
 <details>
     <summary>mala</summary>
-    evil, bad
+    &emsp;evil, bad
 </details>
 
 <details>
     <summary>minima</summary>
-    very small, very little
+    &emsp;very small, very little
 </details>
 
 <details>
     <summary>minor</summary>
-    smaller
+    &emsp;smaller
 </details>
 
 <details>
     <summary>optima</summary>
-    very good, excellent
+    &emsp;very good, excellent
 </details>
 
 <details>
     <summary>suo</summary>
-    its
+    &emsp;its
 </details>
 
 <details>
     <summary>a (ab, before a vowel) + abl</summary>
-    from, away from, by
+    &emsp;from, away from, by
 </details>
 
 <details>
     <summary>aeterno</summary>
-    eternally, forever
+    &emsp;eternally, forever
 </details>
 
 <details>
     <summary>deinde</summary>
-    then
+    &emsp;then
 </details>
 
 <details>
     <summary>denique</summary>
-    and then, finally
+    &emsp;and then, finally
 </details>
 
 <details>
     <summary>itaque</summary>
-    and so, and thus, therefore
+    &emsp;and so, and thus, therefore
 </details>
 
 <details>
     <summary>Latine</summary>
-    in Latin
+    &emsp;in Latin
 </details>
 
 <details>
     <summary>maxime</summary>
-    very, exceedingly; yes indeed, especially
+    &emsp;very, exceedingly; yes indeed, especially
 </details>
 
 <details>
     <summary>minime</summary>
-    least, not in the least, not at all
+    &emsp;least, not in the least, not at all
 </details>
 
 <details>
     <summary>neque</summary>
-    and not
+    &emsp;and not
 </details>
 
 <details>
     <summary>optime</summary>
-    very good, excellent
+    &emsp;very good, excellent
 </details>
 
 <details>
     <summary>primo (primum)</summary>
-    first, at first, first in a series
+    &emsp;first, at first, first in a series
 </details>
 
 
@@ -867,217 +867,217 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>ara, arae, f.</summary>
-    altar
+    &emsp;altar
 </details>
 
 <details>
     <summary>causa, -ae, f.</summary>
-    cause, reason
+    &emsp;cause, reason
 </details>
 
 <details>
     <summary>Diana, -ae f.</summary>
-    Diana (goddess of moon, hunt)
+    &emsp;Diana (goddess of moon, hunt)
 </details>
 
 <details>
     <summary>donum, -i, n.</summary>
-    gift
+    &emsp;gift
 </details>
 
 <details>
     <summary>fama, -ae, f.</summary>
-    reputation, report, fame
+    &emsp;reputation, report, fame
 </details>
 
 <details>
     <summary>familia, -ae, f.</summary>
-    family
+    &emsp;family
 </details>
 
 <details>
     <summary>filius, -ii, m.</summary>
-    son
+    &emsp;son
 </details>
 
 <details>
     <summary>flamma, -ae, f.</summary>
-    flame
+    &emsp;flame
 </details>
 
 <details>
     <summary>fortuna, -ae, f.</summary>
-    fortune
+    &emsp;fortune
 </details>
 
 <details>
     <summary>Graecia, -ae, f.</summary>
-    Greece
+    &emsp;Greece
 </details>
 
 <details>
     <summary>Latona, -ae, f.</summary>
-    Latona (mother of Apollo and Diana)
+    &emsp;Latona (mother of Apollo and Diana)
 </details>
 
 <details>
     <summary>liberi, -orum, m. pl.</summary>
-    children
+    &emsp;children
 </details>
 
 <details>
     <summary>Manto, f</summary>
-    Manto (a wise woman)
+    &emsp;Manto (a wise woman)
 </details>
 
 <details>
     <summary>Niobe, f.</summary>
-    Niobe (a queen)
+    &emsp;Niobe (a queen)
 </details>
 
 <details>
     <summary>oculus, -i, m.</summary>
-    eye
+    &emsp;eye
 </details>
 
 <details>
     <summary>oppidum, -i, n.</summary>
-    town
+    &emsp;town
 </details>
 
 <details>
     <summary>Phoebus, -i, m.</summary>
-    Phoebus Apollo
+    &emsp;Phoebus Apollo
 </details>
 
 <details>
     <summary>potentia, -ae, f.</summary>
-    power
+    &emsp;power
 </details>
 
 <details>
     <summary>puer, -eri, m.</summary>
-    boy
+    &emsp;boy
 </details>
 
 <details>
     <summary>regia, -ae, f.</summary>
-    palace
+    &emsp;palace
 </details>
 
 <details>
     <summary>superbia, -ae, f.</summary>
-    pride
+    &emsp;pride
 </details>
 
 <details>
     <summary>templum, -i, -n.</summary>
-    temple
+    &emsp;temple
 </details>
 
 <details>
     <summary>Thebae, -arum f. pl.</summary>
-    Thebes (the city)
+    &emsp;Thebes (the city)
 </details>
 
 <details>
     <summary>via, -ae, f.</summary>
-    street, road
+    &emsp;street, road
 </details>
 
 <details>
     <summary>circumspecto, -are, -avi, atum</summary>
-    look about, cast a glance
+    &emsp;look about, cast a glance
 </details>
 
 <details>
     <summary>moneo, -ere, -ui, -itum</summary>
-    warn, advise
+    &emsp;warn, advise
 </details>
 
 <details>
     <summary>orno, -are, -avi, -atum</summary>
-    to decorate, adorn
+    &emsp;to decorate, adorn
 </details>
 
 <details>
     <summary>oro, -are, -avi, -atum</summary>
-    beg for, ask for, pray to, implore
+    &emsp;beg for, ask for, pray to, implore
 </details>
 
 <details>
     <summary>praesto, -are, -stiti, -stitum + dat.</summary>
-    stand before, surpass
+    &emsp;stand before, surpass
 </details>
 
 <details>
     <summary>rogo, -are, -avi, -atum (+acc)</summary>
-    ask
+    &emsp;ask
 </details>
 
 <details>
     <summary>sto, -are, steti, statum</summary>
-    stand
+    &emsp;stand
 </details>
 
 <details>
     <summary>beatus, -a, -um</summary>
-    happy, blessed
+    &emsp;happy, blessed
 </details>
 
 <details>
     <summary>clarus, -a, -um</summary>
-    famous, illustrious, bright, shining, clear
+    &emsp;famous, illustrious, bright, shining, clear
 </details>
 
 <details>
     <summary>dignus, -a, -um + ablative or genitive</summary>
-    worthy, worth
+    &emsp;worthy, worth
 </details>
 
 <details>
     <summary>multus, -a, -um</summary>
-    much; many (pl.)
+    &emsp;much; many (pl.)
 </details>
 
 <details>
     <summary>sanctus, a, um</summary>
-    sacred
+    &emsp;sacred
 </details>
 
 <details>
     <summary>septem</summary>
-    seven
+    &emsp;seven
 </details>
 
 <details>
     <summary>suus, -a, -um</summary>
-    his own, her own, its own, their own
+    &emsp;his own, her own, its own, their own
 </details>
 
 <details>
     <summary>unus, -a, -um</summary>
-    one, only
+    &emsp;one, only
 </details>
 
 <details>
     <summary>cur</summary>
-    why
+    &emsp;why
 </details>
 
 <details>
     <summary>ecce</summary>
-    behold
+    &emsp;behold
 </details>
 
 <details>
     <summary>ibi</summary>
-    there
+    &emsp;there
 </details>
 
 <details>
     <summary>solum</summary>
-    only
+    &emsp;only
 </details>
 
 
@@ -1085,212 +1085,212 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>aera, m. (Greek acc. sg.)</summary>
-    air
+    &emsp;air
 </details>
 
 <details>
     <summary>campus, -i, m.</summary>
-    field
+    &emsp;field
 </details>
 
 <details>
     <summary>equus, -i, m.</summary>
-    horse
+    &emsp;horse
 </details>
 
 <details>
     <summary>funera, n. pl.</summary>
-    funerals
+    &emsp;funerals
 </details>
 
 <details>
     <summary>lacrima, -ae, f.</summary>
-    tear
+    &emsp;tear
 </details>
 
 <details>
     <summary>mater, matris, f.</summary>
-    mother
+    &emsp;mother
 </details>
 
 <details>
     <summary>moenia -ium n. pl.</summary>
-    walls, fortifications
+    &emsp;walls, fortifications
 </details>
 
 <details>
     <summary>mora, -ae, f.</summary>
-    delay
+    &emsp;delay
 </details>
 
 <details>
     <summary>poena, -ae, f.</summary>
-    punishment
+    &emsp;punishment
 </details>
 
 <details>
     <summary>populus, -i, m.</summary>
-    people
+    &emsp;people
 </details>
 
 <details>
     <summary>querella, ae, f.</summary>
-    complaint
+    &emsp;complaint
 </details>
 
 <details>
     <summary>ruina, -ae, f.</summary>
-    ruin, disaster
+    &emsp;ruin, disaster
 </details>
 
 <details>
     <summary>sagitta, -ae, f.</summary>
-    arrow
+    &emsp;arrow
 </details>
 
 <details>
     <summary>schola, -ae, f.</summary>
-    school, class
+    &emsp;school, class
 </details>
 
 <details>
     <summary>statua, -ae, f.</summary>
-    statue
+    &emsp;statue
 </details>
 
 <details>
     <summary>verbum, -i, n.</summary>
-    word
+    &emsp;word
 </details>
 
 <details>
     <summary>congelo, -are, -avi, -atum</summary>
-    freeze, stiffen, congeal
+    &emsp;freeze, stiffen, congeal
 </details>
 
 <details>
     <summary>convoco, -are, -avi, -atum</summary>
-    to call together, summon
+    &emsp;to call together, summon
 </details>
 
 <details>
     <summary>exerceo, -ere, -ui, -itum</summary>
-    to train, exercise
+    &emsp;to train, exercise
 </details>
 
 <details>
     <summary>honoro, -are, -avi, -atum</summary>
-    honor
+    &emsp;honor
 </details>
 
 <details>
     <summary>iuvo, -are, -avi, -atum</summary>
-    help, aid
+    &emsp;help, aid
 </details>
 
 <details>
     <summary>lacrimo, -are, -avi, -atum</summary>
-    to cry, weep
+    &emsp;to cry, weep
 </details>
 
 <details>
     <summary>relinquo, -ere, reliqui, relictum</summary>
-    leave, leave behind
+    &emsp;leave, leave behind
 </details>
 
 <details>
     <summary>rogo, -are, -avi, -atum</summary>
-    ask, beg for
+    &emsp;ask, beg for
 </details>
 
 <details>
     <summary>volo, -are, -avi, -atum</summary>
-    fly
+    &emsp;fly
 </details>
 
 <details>
     <summary>meus, -a, -um</summary>
-    my
+    &emsp;my
 </details>
 
 <details>
     <summary>planus, -a, -um</summary>
-    equal, level, even, flat
+    &emsp;equal, level, even, flat
 </details>
 
 <details>
     <summary>profanus, -a, -um</summary>
-    wicked, evil
+    &emsp;wicked, evil
 </details>
 
 <details>
     <summary>ultimus, -a, -um</summary>
-    last
+    &emsp;last
 </details>
 
 <details>
     <summary>ad + acc</summary>
-    to, toward, near
+    &emsp;to, toward, near
 </details>
 
 <details>
     <summary>celeriter</summary>
-    quickly
+    &emsp;quickly
 </details>
 
 <details>
     <summary>hodie</summary>
-    today
+    &emsp;today
 </details>
 
 <details>
     <summary>magis</summary>
-    more
+    &emsp;more
 </details>
 
 <details>
     <summary>o</summary>
-    o, oh
+    &emsp;o, oh
 </details>
 
 <details>
     <summary>per + acc</summary>
-    through
+    &emsp;through
 </details>
 
 <details>
     <summary>plus</summary>
-    more
+    &emsp;more
 </details>
 
 <details>
     <summary>prope + acc</summary>
-    near, close to
+    &emsp;near, close to
 </details>
 
 <details>
     <summary>quot</summary>
-    how many, how much
+    &emsp;how many, how much
 </details>
 
 <details>
     <summary>quam</summary>
-    than
+    &emsp;than
 </details>
 
 <details>
     <summary>satis</summary>
-    enough
+    &emsp;enough
 </details>
 
 <details>
     <summary>tum</summary>
-    then
+    &emsp;then
 </details>
 
 <details>
     <summary>ubi</summary>
-    when, while, where
+    &emsp;when, while, where
 </details>
 
 
@@ -1298,207 +1298,207 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>ager, agri, m.</summary>
-    field
+    &emsp;field
 </details>
 
 <details>
     <summary>auxilium, -ii, n.</summary>
-    aid, help
+    &emsp;aid, help
 </details>
 
 <details>
     <summary>bracchium, -ii, n.</summary>
-    arm, limb
+    &emsp;arm, limb
 </details>
 
 <details>
     <summary>cera, -ae, f.</summary>
-    wax
+    &emsp;wax
 </details>
 
 <details>
     <summary>concilium, -ii, n.</summary>
-    union
+    &emsp;union
 </details>
 
 <details>
     <summary>fistula, -ae, f.</summary>
-    reed pipe, pipes of Pan
+    &emsp;reed pipe, pipes of Pan
 </details>
 
 <details>
     <summary>fuga, -ae, f.</summary>
-    flight
+    &emsp;flight
 </details>
 
 <details>
     <summary>Pan, m.</summary>
-    Pan (a forest divinity, satyr)
+    &emsp;Pan (a forest divinity, satyr)
 </details>
 
 <details>
     <summary>papyrus, -i, f.</summary>
-    papyrus, reed
+    &emsp;papyrus, reed
 </details>
 
 <details>
     <summary>ripa, -ae, f.</summary>
-    bank (of a river)
+    &emsp;bank (of a river)
 </details>
 
 <details>
     <summary>saturus, -i, m.</summary>
-    satyr
+    &emsp;satyr
 </details>
 
 <details>
     <summary>sonus, -i, m.</summary>
-    sound
+    &emsp;sound
 </details>
 
 <details>
     <summary>Syringa, -ae, f.</summary>
-    Syrinx (a nymph)
+    &emsp;Syrinx (a nymph)
 </details>
 
 <details>
     <summary>unda, -ae, f.</summary>
-    wave, water, stream
+    &emsp;wave, water, stream
 </details>
 
 <details>
     <summary>vir, viri, m.</summary>
-    man
+    &emsp;man
 </details>
 
 <details>
     <summary>celo, -are, -avi, -atum</summary>
-    to hide, conceal
+    &emsp;to hide, conceal
 </details>
 
 <details>
     <summary>devoveo, -ere, -vovi, -votum</summary>
-    to devote
+    &emsp;to devote
 </details>
 
 <details>
     <summary>erro, -are, -avi, -atum</summary>
-    wander
+    &emsp;wander
 </details>
 
 <details>
     <summary>fugito, -are, -avi, -atum</summary>
-    flee, avoid, shun
+    &emsp;flee, avoid, shun
 </details>
 
 <details>
     <summary>maneo, -ere, mansi, mansum</summary>
-    to remain, stay
+    &emsp;to remain, stay
 </details>
 
 <details>
     <summary>puto, -are, -avi, -atum</summary>
-    to think
+    &emsp;to think
 </details>
 
 <details>
     <summary>suspiro, -are, -avi, -atum</summary>
-    to breathe
+    &emsp;to breathe
 </details>
 
 <details>
     <summary>teneo, -ere, -ui, tentum</summary>
-    hold, keep, possess, have
+    &emsp;hold, keep, possess, have
 </details>
 
 <details>
     <summary>video, -ere, vidi, visum</summary>
-    to see
+    &emsp;to see
 </details>
 
 <details>
     <summary>benignus, -a, -um</summary>
-    kind
+    &emsp;kind
 </details>
 
 <details>
     <summary>ceterus, a, um</summary>
-    other, rest of
+    &emsp;other, rest of
 </details>
 
 <details>
     <summary>densus, -a, -um</summary>
-    thick, dense
+    &emsp;thick, dense
 </details>
 
 <details>
     <summary>miser, era, erum</summary>
-    wretched, unhappy, miserable
+    &emsp;wretched, unhappy, miserable
 </details>
 
 <details>
     <summary>nullus, -a, -um</summary>
-    no, none
+    &emsp;no, none
 </details>
 
 <details>
     <summary>umbrosus, -a, -um</summary>
-    shady
+    &emsp;shady
 </details>
 
 <details>
     <summary>aeternum</summary>
-    forever
+    &emsp;forever
 </details>
 
 <details>
     <summary>autem (postpositive)</summary>
-    but, however
+    &emsp;but, however
 </details>
 
 <details>
     <summary>donec</summary>
-    until, up to the time when
+    &emsp;until, up to the time when
 </details>
 
 <details>
     <summary>eam (acc.)</summary>
-    her
+    &emsp;her
 </details>
 
 <details>
     <summary>eos (acc.)</summary>
-    them
+    &emsp;them
 </details>
 
 <details>
     <summary>olim</summary>
-    once, once upon a time, formerly
+    &emsp;once, once upon a time, formerly
 </details>
 
 <details>
     <summary>quamquam</summary>
-    although
+    &emsp;although
 </details>
 
 <details>
     <summary>sic</summary>
-    thus
+    &emsp;thus
 </details>
 
 <details>
     <summary>statim</summary>
-    immediately
+    &emsp;immediately
 </details>
 
 <details>
     <summary>tamen</summary>
-    nevertheless
+    &emsp;nevertheless
 </details>
 
 <details>
     <summary>trans + acc.</summary>
-    across
+    &emsp;across
 </details>
 
 
@@ -1506,207 +1506,207 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>Arcadia, -ae, f.</summary>
-    Arcadia (a region of the Peloponnesus, dear to Jupiter)
+    &emsp;Arcadia (a region of the Peloponnesus, dear to Jupiter)
 </details>
 
 <details>
     <summary>Arcas, Arcadis, m.</summary>
-    Arcas (son of Callisto)
+    &emsp;Arcas (son of Callisto)
 </details>
 
 <details>
     <summary>caelum, -i, n.</summary>
-    sky, the heavens
+    &emsp;sky, the heavens
 </details>
 
 <details>
     <summary>Callisto, f.</summary>
-    Callisto (a nymph)
+    &emsp;Callisto (a nymph)
 </details>
 
 <details>
     <summary>delectamentum, -i, n.</summary>
-    delight
+    &emsp;delight
 </details>
 
 <details>
     <summary>fibula, ae, f.</summary>
-    pin
+    &emsp;pin
 </details>
 
 <details>
     <summary>iaculum, -i, n.</summary>
-    javelin
+    &emsp;javelin
 </details>
 
 <details>
     <summary>ira, -ae, f.</summary>
-    wrath
+    &emsp;wrath
 </details>
 
 <details>
     <summary>Iuno, f.</summary>
-    Juno, queen of the gods
+    &emsp;Juno, queen of the gods
 </details>
 
 <details>
     <summary>Musa, -ae, f.</summary>
-    Muse
+    &emsp;Muse
 </details>
 
 <details>
     <summary>pretium, -ii, n.</summary>
-    price, reward
+    &emsp;price, reward
 </details>
 
 <details>
     <summary>somnus, -i, m.</summary>
-    sleep
+    &emsp;sleep
 </details>
 
 <details>
     <summary>in somno</summary>
-    asleep
+    &emsp;asleep
 </details>
 
 <details>
     <summary>stella -ae, f.</summary>
-    star
+    &emsp;star
 </details>
 
 <details>
     <summary>ursa, -ae, f.</summary>
-    bear
+    &emsp;bear
 </details>
 
 <details>
     <summary>Ursa Maior</summary>
-    Greater Bear
+    &emsp;Greater Bear
 </details>
 
 <details>
     <summary>Ursa Minor</summary>
-    Smaller Bear
+    &emsp;Smaller Bear
 </details>
 
 <details>
     <summary>vestimentum, -i, n.</summary>
-    garment, clothes
+    &emsp;garment, clothes
 </details>
 
 <details>
     <summary>victor, victoris, m.</summary>
-    victor
+    &emsp;victor
 </details>
 
 <details>
     <summary>vitta, -ae, f.</summary>
-    fillet, band
+    &emsp;fillet, band
 </details>
 
 <details>
     <summary>appropinquo, are, avi, atum</summary>
-    to approach
+    &emsp;to approach
 </details>
 
 <details>
     <summary>curo, -are, -avi, -atum</summary>
-    to care for
+    &emsp;to care for
 </details>
 
 <details>
     <summary>evito, -are, -avi, -atum</summary>
-    to avoid, shun
+    &emsp;to avoid, shun
 </details>
 
 <details>
     <summary>iaceo, -ere, -ui, -iturum</summary>
-    to lie (at rest)
+    &emsp;to lie (at rest)
 </details>
 
 <details>
     <summary>invoco, -are, -avi, -atum</summary>
-    to invoke
+    &emsp;to invoke
 </details>
 
 <details>
     <summary>retineo, -ere, -ui, -tentum</summary>
-    keep, hold back, restrain
+    &emsp;keep, hold back, restrain
 </details>
 
 <details>
     <summary>alius, -a, -ud; alii ... alii</summary>
-    other; some ... others
+    &emsp;other; some ... others
 </details>
 
 <details>
     <summary>carus, -a, -um + dat</summary>
-    dear (to)
+    &emsp;dear (to)
 </details>
 
 <details>
     <summary>formosus, -a, -um</summary>
-    beautiful, shapely
+    &emsp;beautiful, shapely
 </details>
 
 <details>
     <summary>gratus, -a, -um + dat.</summary>
-    pleasing (to)
+    &emsp;pleasing (to)
 </details>
 
 <details>
     <summary>herbosus, -a, -um</summary>
-    grassy
+    &emsp;grassy
 </details>
 
 <details>
     <summary>neglectus, -a, -um</summary>
-    neglected
+    &emsp;neglected
 </details>
 
 <details>
     <summary>notus, -a, -um</summary>
-    familiar, well-known
+    &emsp;familiar, well-known
 </details>
 
 <details>
     <summary>pretiosus, -a, -um</summary>
-    costly
+    &emsp;costly
 </details>
 
 <details>
     <summary>solus, -a, -um</summary>
-    alone, lone, only
+    &emsp;alone, lone, only
 </details>
 
 <details>
     <summary>aut</summary>
-    or
+    &emsp;or
 </details>
 
 <details>
     <summary>cuius</summary>
-    whose (sing.)
+    &emsp;whose (sing.)
 </details>
 
 <details>
     <summary>eius</summary>
-    his, her, its
+    &emsp;his, her, its
 </details>
 
 <details>
     <summary>propter + acc.</summary>
-    on account of, because of
+    &emsp;on account of, because of
 </details>
 
 <details>
     <summary>secreto</summary>
-    secretly
+    &emsp;secretly
 </details>
 
 <details>
     <summary>si</summary>
-    if
+    &emsp;if
 </details>
 
 
@@ -1714,212 +1714,212 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>adultera, -ae, f.</summary>
-    adulteress
+    &emsp;adulteress
 </details>
 
 <details>
     <summary>animal, (pl. -alia), n.</summary>
-    animal
+    &emsp;animal
 </details>
 
 <details>
     <summary>bracchium, ii, n.</summary>
-    arm, branch
+    &emsp;arm, branch
 </details>
 
 <details>
     <summary>causa, -ae, f.</summary>
-    cause, reason
+    &emsp;cause, reason
 </details>
 
 <details>
     <summary>figura, -ae, f.</summary>
-    form, shape, figure
+    &emsp;form, shape, figure
 </details>
 
 <details>
     <summary>iniuria, -ae, f.</summary>
-    injury, hurt, wrong
+    &emsp;injury, hurt, wrong
 </details>
 
 <details>
     <summary>matricidium, -ii, n.</summary>
-    matricide
+    &emsp;matricide
 </details>
 
 <details>
     <summary>poena, -ae, f.</summary>
-    punishment
+    &emsp;punishment
 </details>
 
 <details>
     <summary>sensa, -orum, n. pl.</summary>
-    sense, feeling
+    &emsp;sense, feeling
 </details>
 
 <details>
     <summary>tempus, -oris, n.</summary>
-    time, times
+    &emsp;time, times
 </details>
 
 <details>
     <summary>venator, -oris, m.</summary>
-    hunter
+    &emsp;hunter
 </details>
 
 <details>
     <summary>verbum, -i, n.</summary>
-    word
+    &emsp;word
 </details>
 
 <details>
     <summary>villus, -i, m.</summary>
-    shaggy hair
+    &emsp;shaggy hair
 </details>
 
 <details>
     <summary>vox, vocis, f.</summary>
-    voice
+    &emsp;voice
 </details>
 
 <details>
     <summary>absum, abesse, afui, afuturum</summary>
-    be absent, be away
+    &emsp;be absent, be away
 </details>
 
 <details>
     <summary>adsum, adesse, adfui, adfuturum</summary>
-    be present, be near
+    &emsp;be present, be near
 </details>
 
 <details>
     <summary>exspecto, -are, -avi, -atum</summary>
-    await, wait for
+    &emsp;await, wait for
 </details>
 
 <details>
     <summary>fugito, -are, -avi, -atum</summary>
-    flee, avoid, shun
+    &emsp;flee, avoid, shun
 </details>
 
 <details>
     <summary>horresco, ere, horrui</summary>
-    grow rough
+    &emsp;grow rough
 </details>
 
 <details>
     <summary>servo, -are, -avi, -atum</summary>
-    save, protect
+    &emsp;save, protect
 </details>
 
 <details>
     <summary>tendo, -ere, tetendi, tentum or -sum</summary>
-    stretch out, extend
+    &emsp;stretch out, extend
 </details>
 
 <details>
     <summary>transporto, -are, -avi, -atum</summary>
-    to transport, to carry
+    &emsp;to transport, to carry
 </details>
 
 <details>
     <summary>benignus, -a, -um + dat.</summary>
-    kind (to)
+    &emsp;kind (to)
 </details>
 
 <details>
     <summary>ferus, -a, -um</summary>
-    wild
+    &emsp;wild
 </details>
 
 <details>
     <summary>humanus, -a, -um</summary>
-    human
+    &emsp;human
 </details>
 
 <details>
     <summary>idoneus, -a, -um +dat.</summary>
-    suitable for
+    &emsp;suitable for
 </details>
 
 <details>
     <summary>immotus, -a, -um</summary>
-    unmoving
+    &emsp;unmoving
 </details>
 
 <details>
     <summary>natus, -a, -um</summary>
-    born
+    &emsp;born
 </details>
 
 <details>
     <summary>pronus, -a, -um</summary>
-    bent over, prone
+    &emsp;bent over, prone
 </details>
 
 <details>
     <summary>raucus, -a, -um</summary>
-    hoarse
+    &emsp;hoarse
 </details>
 
 <details>
     <summary>supplex, -icis, m., f., n.</summary>
-    as a suppliant, pleading
+    &emsp;as a suppliant, pleading
 </details>
 
 <details>
     <summary>territus, -a, -um</summary>
-    terrified
+    &emsp;terrified
 </details>
 
 <details>
     <summary>tuus, -a, -um</summary>
-    your (sing.)
+    &emsp;your (sing.)
 </details>
 
 <details>
     <summary>vicinus, -a, -um</summary>
-    neighboring
+    &emsp;neighboring
 </details>
 
 <details>
     <summary>a (interjection)</summary>
-    ah!
+    &emsp;ah!
 </details>
 
 <details>
     <summary>cum (conj.)</summary>
-    when
+    &emsp;when
 </details>
 
 <details>
     <summary>ea</summary>
-    she
+    &emsp;she
 </details>
 
 <details>
     <summary>post + acc.</summary>
-    after
+    &emsp;after
 </details>
 
 <details>
     <summary>quindecim</summary>
-    fifteen
+    &emsp;fifteen
 </details>
 
 <details>
     <summary>quotiens</summary>
-    how often
+    &emsp;how often
 </details>
 
 <details>
     <summary>ter</summary>
-    three times, thrice
+    &emsp;three times, thrice
 </details>
 
 <details>
     <summary>ter quinque</summary>
-    fifteen (3 x 5)
+    &emsp;fifteen (3 x 5)
 </details>
 
 
@@ -1927,222 +1927,222 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>advena, -ae, c.</summary>
-    stranger
+    &emsp;stranger
 </details>
 
 <details>
     <summary>arbor, arboris, f.</summary>
-    tree
+    &emsp;tree
 </details>
 
 <details>
     <summary>Baucis, Baucidis, f.</summary>
-    Baucis
+    &emsp;Baucis
 </details>
 
 <details>
     <summary>cibus, -i, m.</summary>
-    food
+    &emsp;food
 </details>
 
 <details>
     <summary>dominus, -i, m.</summary>
-    lord, master
+    &emsp;lord, master
 </details>
 
 <details>
     <summary>finis, finis, -ium, m. (or f.)</summary>
-    end; pl. boundary
+    &emsp;end; pl. boundary
 </details>
 
 <details>
     <summary>locus, -i, m. (irreg pl. loca)</summary>
-    place
+    &emsp;place
 </details>
 
 <details>
     <summary>membrum, -i, n.</summary>
-    leg (of a table)
+    &emsp;leg (of a table)
 </details>
 
 <details>
     <summary>mensa, -ae, f.</summary>
-    table
+    &emsp;table
 </details>
 
 <details>
     <summary>Mercurius, -ii, m.</summary>
-    Mercury
+    &emsp;Mercury
 </details>
 
 <details>
     <summary>pars, partis, -ium, f.</summary>
-    part
+    &emsp;part
 </details>
 
 <details>
     <summary>pater, patris, m.</summary>
-    father
+    &emsp;father
 </details>
 
 <details>
     <summary>Philemon, -monis, m.</summary>
-    Philemon
+    &emsp;Philemon
 </details>
 
 <details>
     <summary>Phrygia, -ae, f.</summary>
-    Phrygia
+    &emsp;Phrygia
 </details>
 
 <details>
     <summary>piscis, piscis, -ium, m.</summary>
-    fish
+    &emsp;fish
 </details>
 
 <details>
     <summary>requies, requietis, f. (requiem, acc. sing)</summary>
-    rest
+    &emsp;rest
 </details>
 
 <details>
     <summary>rex, regis, m.</summary>
-    king
+    &emsp;king
 </details>
 
 <details>
     <summary>senex, senis, -um, c.</summary>
-    old man/old woman
+    &emsp;old man/old woman
 </details>
 
 <details>
     <summary>servus, servi, m.</summary>
-    slave, servant
+    &emsp;slave, servant
 </details>
 
 <details>
     <summary>stagnum, -i, n.</summary>
-    pool
+    &emsp;pool
 </details>
 
 <details>
     <summary>vinum, -i, n.</summary>
-    wine
+    &emsp;wine
 </details>
 
 <details>
     <summary>dubito (1)</summary>
-    to doubt
+    &emsp;to doubt
 </details>
 
 <details>
     <summary>impero (1), + dat.</summary>
-    command, order, bid
+    &emsp;command, order, bid
 </details>
 
 <details>
     <summary>intro (1)</summary>
-    to enter
+    &emsp;to enter
 </details>
 
 <details>
     <summary>iubeo, -ere, iussi, iussum</summary>
-    to order, command, ask, bid
+    &emsp;to order, command, ask, bid
 </details>
 
 <details>
     <summary>paro (1)</summary>
-    to prepare
+    &emsp;to prepare
 </details>
 
 <details>
     <summary>sedeo, -ere, sedi, sessum</summary>
-    to sit, remain, stay
+    &emsp;to sit, remain, stay
 </details>
 
 <details>
     <summary>venio, -ire, veni, ventum</summary>
-    to come
+    &emsp;to come
 </details>
 
 <details>
     <summary>apertus, -a, -um</summary>
-    open
+    &emsp;open
 </details>
 
 <details>
     <summary>clausus, -a, -um</summary>
-    closed
+    &emsp;closed
 </details>
 
 <details>
     <summary>duo, duae, duo</summary>
-    two
+    &emsp;two
 </details>
 
 <details>
     <summary>factus, -a, -um</summary>
-    done, made
+    &emsp;done, made
 </details>
 
 <details>
     <summary>immensus, -a, -um</summary>
-    immense
+    &emsp;immense
 </details>
 
 <details>
     <summary>maiorem</summary>
-    greater
+    &emsp;greater
 </details>
 
 <details>
     <summary>noster, -tra, -trum</summary>
-    our
+    &emsp;our
 </details>
 
 <details>
     <summary>pius, -a, -um</summary>
-    pious, reverent
+    &emsp;pious, reverent
 </details>
 
 <details>
     <summary>plenus, -a, -um</summary>
-    full
+    &emsp;full
 </details>
 
 <details>
     <summary>verus, -a, -um</summary>
-    true
+    &emsp;true
 </details>
 
 <details>
     <summary>ego</summary>
-    I
+    &emsp;I
 </details>
 
 <details>
     <summary>enim (postpositive)</summary>
-    for, in fact, truly
+    &emsp;for, in fact, truly
 </details>
 
 <details>
     <summary>et ... et</summary>
-    both ... and
+    &emsp;both ... and
 </details>
 
 <details>
     <summary>non procul</summary>
-    not distant, near by
+    &emsp;not distant, near by
 </details>
 
 <details>
     <summary>quicquid</summary>
-    whatever
+    &emsp;whatever
 </details>
 
 <details>
     <summary>ubi</summary>
-    where, when
+    &emsp;where, when
 </details>
 
 
@@ -2150,162 +2150,162 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>annus, -i, m.</summary>
-    year
+    &emsp;year
 </details>
 
 <details>
     <summary>anser, anseris, m.</summary>
-    goose
+    &emsp;goose
 </details>
 
 <details>
     <summary>cena, cenae, f.</summary>
-    dinner, meal
+    &emsp;dinner, meal
 </details>
 
 <details>
     <summary>coniunx, coniugis, c</summary>
-    husband or wife, spouse
+    &emsp;husband or wife, spouse
 </details>
 
 <details>
     <summary>crater, -eris, m.</summary>
-    bowl
+    &emsp;bowl
 </details>
 
 <details>
     <summary>custos, custodis, m.</summary>
-    guardian, keeper
+    &emsp;guardian, keeper
 </details>
 
 <details>
     <summary>homo, inis, m</summary>
-    man, human
+    &emsp;man, human
 </details>
 
 <details>
     <summary>miraculum, -i, n.</summary>
-    miracle
+    &emsp;miracle
 </details>
 
 <details>
     <summary>nomen, nomenis (neuter)</summary>
-    name
+    &emsp;name
 </details>
 
 <details>
     <summary>os, oris, n.</summary>
-    mouth, face
+    &emsp;mouth, face
 </details>
 
 <details>
     <summary>praemium, -ii, n.</summary>
-    reward
+    &emsp;reward
 </details>
 
 <details>
     <summary>sacerdos, -dotis m/f</summary>
-    priest (-ess)
+    &emsp;priest (-ess)
 </details>
 
 <details>
     <summary>sacrificium, -ii, n.</summary>
-    sacrifice
+    &emsp;sacrifice
 </details>
 
 <details>
     <summary>frondeo, -ere</summary>
-    to put out leaves
+    &emsp;to put out leaves
 </details>
 
 <details>
     <summary>prehendo, -ere, -hendi, -hensum</summary>
-    to catch, to seize, to grasp
+    &emsp;to catch, to seize, to grasp
 </details>
 
 <details>
     <summary>timeo, -ere, -ui</summary>
-    to fear, be afraid of
+    &emsp;to fear, be afraid of
 </details>
 
 <details>
     <summary>vasto (1)</summary>
-    to destroy, lay waste
+    &emsp;to destroy, lay waste
 </details>
 
 <details>
     <summary>vivo, -ere, vixi, victum</summary>
-    to live
+    &emsp;to live
 </details>
 
 <details>
     <summary>impius, -a, -um</summary>
-    impious, wicked
+    &emsp;impious, wicked
 </details>
 
 <details>
     <summary>ipse, ipsa, ipsum</summary>
-    self, himself, herself, itself, themselves, myself, yourself
+    &emsp;self, himself, herself, itself, themselves, myself, yourself
 </details>
 
 <details>
     <summary>iustus, a, um</summary>
-    just, upright, true
+    &emsp;just, upright, true
 </details>
 
 <details>
     <summary>receptus, -a, -um</summary>
-    received
+    &emsp;received
 </details>
 
 <details>
     <summary>timidus, -a, -um</summary>
-    timid
+    &emsp;timid
 </details>
 
 <details>
     <summary>eos (m), eas (f)</summary>
-    them (accusative)
+    &emsp;them (accusative)
 </details>
 
 <details>
     <summary>inter + acc</summary>
-    between, among
+    &emsp;between, among
 </details>
 
 <details>
     <summary>nos</summary>
-    us
+    &emsp;us
 </details>
 
 <details>
     <summary>pro + abl</summary>
-    in front of, before
+    &emsp;in front of, before
 </details>
 
 <details>
     <summary>qui</summary>
-    who (pl.)
+    &emsp;who (pl.)
 </details>
 
 <details>
     <summary>quoniam</summary>
-    since
+    &emsp;since
 </details>
 
 <details>
     <summary>semper</summary>
-    always
+    &emsp;always
 </details>
 
 <details>
     <summary>sine + abl</summary>
-    without
+    &emsp;without
 </details>
 
 <details>
     <summary>vobis (dat)</summary>
-    to you (pl.)
+    &emsp;to you (pl.)
 </details>
 
 
@@ -2313,252 +2313,252 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>amor, amoris, m.</summary>
-    love
+    &emsp;love
 </details>
 
 <details>
     <summary>color, coloris, m.</summary>
-    color
+    &emsp;color
 </details>
 
 <details>
     <summary>corpus, corporis, n.</summary>
-    body
+    &emsp;body
 </details>
 
 <details>
     <summary>Echo, f.</summary>
-    Echo (a nymph)
+    &emsp;Echo (a nymph)
 </details>
 
 <details>
     <summary>flos, floris, m.</summary>
-    flower
+    &emsp;flower
 </details>
 
 <details>
     <summary>flumen, -inis, n.</summary>
-    river
+    &emsp;river
 </details>
 
 <details>
     <summary>folium, -ii, n.</summary>
-    leaf
+    &emsp;leaf
 </details>
 
 <details>
     <summary>fons, fontis, -ium, m.</summary>
-    fountain, pool, spring
+    &emsp;fountain, pool, spring
 </details>
 
 <details>
     <summary>imago, -inis, f.</summary>
-    image
+    &emsp;image
 </details>
 
 <details>
     <summary>iuvenis, iuvenis, iuvenum (gen. pl.), c.</summary>
-    youth, young person
+    &emsp;youth, young person
 </details>
 
 <details>
     <summary>mons, montis, -ium, m.</summary>
-    mountain
+    &emsp;mountain
 </details>
 
 <details>
     <summary>Narcissus, -i, m.</summary>
-    Narcissus (a youth)
+    &emsp;Narcissus (a youth)
 </details>
 
 <details>
     <summary>nox, noctis, -ium, f.</summary>
-    night
+    &emsp;night
 </details>
 
 <details>
     <summary>potestas, -atis, f.</summary>
-    power
+    &emsp;power
 </details>
 
 <details>
     <summary>pudor, -oris, m.</summary>
-    shame
+    &emsp;shame
 </details>
 
 <details>
     <summary>ripa, ae, f.</summary>
-    bank of a river
+    &emsp;bank of a river
 </details>
 
 <details>
     <summary>soror, -oris, f.</summary>
-    sister
+    &emsp;sister
 </details>
 
 <details>
     <summary>spelunca, -ae, f.</summary>
-    cave
+    &emsp;cave
 </details>
 
 <details>
     <summary>vigor, -oris, m.</summary>
-    liveliness, force, vigor
+    &emsp;liveliness, force, vigor
 </details>
 
 <details>
     <summary>vox, vocis, f.</summary>
-    voice
+    &emsp;voice
 </details>
 
 <details>
     <summary>desisto, -ere, -stiti, -stitum</summary>
-    desist, stop, leave off
+    &emsp;desist, stop, leave off
 </details>
 
 <details>
     <summary>devoro (1)</summary>
-    to devour, consume
+    &emsp;to devour, consume
 </details>
 
 <details>
     <summary>humo (1)</summary>
-    to bury
+    &emsp;to bury
 </details>
 
 <details>
     <summary>inquit</summary>
-    he, she says, said
+    &emsp;he, she says, said
 </details>
 
 <details>
     <summary>noceo, -ere, -ui, -itum + dat.</summary>
-    to harm
+    &emsp;to harm
 </details>
 
 <details>
     <summary>paro (1)</summary>
-    to prepare
+    &emsp;to prepare
 </details>
 
 <details>
     <summary>pervideo, -ere, -vidi, -visum</summary>
-    to see through, discern, realize
+    &emsp;to see through, discern, realize
 </details>
 
 <details>
     <summary>possum, posse, potui</summary>
-    can, be able
+    &emsp;can, be able
 </details>
 
 <details>
     <summary>puto (1)</summary>
-    to think
+    &emsp;to think
 </details>
 
 <details>
     <summary>reporto (1)</summary>
-    to carry back, report
+    &emsp;to carry back, report
 </details>
 
 <details>
     <summary>tango, -ere, tetigi, tactum</summary>
-    to touch
+    &emsp;to touch
 </details>
 
 <details>
     <summary>turbo (1)</summary>
-    to stir, disturb
+    &emsp;to stir, disturb
 </details>
 
 <details>
     <summary>albus, -a, -um</summary>
-    white
+    &emsp;white
 </details>
 
 <details>
     <summary>alius, -ia, -iud</summary>
-    other, another
+    &emsp;other, another
 </details>
 
 <details>
     <summary>obscurus, -a, -um</summary>
-    dark
+    &emsp;dark
 </details>
 
 <details>
     <summary>vester, -tra, -trum</summary>
-    your (pl.)
+    &emsp;your (pl.)
 </details>
 
 <details>
     <summary>adhuc (adv)</summary>
-    until now, up to this point
+    &emsp;until now, up to this point
 </details>
 
 <details>
     <summary>antequam (conj.)</summary>
-    before, sooner than
+    &emsp;before, sooner than
 </details>
 
 <details>
     <summary>forte</summary>
-    by chance
+    &emsp;by chance
 </details>
 
 <details>
     <summary>haec</summary>
-    this
+    &emsp;this
 </details>
 
 <details>
     <summary>nemo, neminem (acc.)</summary>
-    no one
+    &emsp;no one
 </details>
 
 <details>
     <summary>praeter + acc.</summary>
-    except
+    &emsp;except
 </details>
 
 <details>
     <summary>pro + abl.</summary>
-    in place of, before, for
+    &emsp;in place of, before, for
 </details>
 
 <details>
     <summary>quamquam</summary>
-    although
+    &emsp;although
 </details>
 
 <details>
     <summary>quem, rel. pro.</summary>
-    whom
+    &emsp;whom
 </details>
 
 <details>
     <summary>Quem, interrog. pro.</summary>
-    Whom
+    &emsp;Whom
 </details>
 
 <details>
     <summary>sui, sibi, se, se, reflexive pro.</summary>
-    himself, herself, itself, themselves
+    &emsp;himself, herself, itself, themselves
 </details>
 
 <details>
     <summary>tamen</summary>
-    nevertheless
+    &emsp;nevertheless
 </details>
 
 <details>
     <summary>usque + acc.</summary>
-    as far as
+    &emsp;as far as
 </details>
 
 <details>
     <summary>vos</summary>
-    you (pl.)
+    &emsp;you (pl.)
 </details>
 
 
@@ -2566,207 +2566,207 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>aqua, -ae, f.</summary>
-    water
+    &emsp;water
 </details>
 
 <details>
     <summary>arcus, m. (4th decl.)</summary>
-    bow
+    &emsp;bow
 </details>
 
 <details>
     <summary>arma, -orum, n. pl.</summary>
-    arms, weapons
+    &emsp;arms, weapons
 </details>
 
 <details>
     <summary>ars, artis, -ium, f.</summary>
-    skill, art
+    &emsp;skill, art
 </details>
 
 <details>
     <summary>caput, itis n.</summary>
-    head
+    &emsp;head
 </details>
 
 <details>
     <summary>Cupido, -inis, m.</summary>
-    Cupid, Eros, Amor (son of Venus)
+    &emsp;Cupid, Eros, Amor (son of Venus)
 </details>
 
 <details>
     <summary>Daphne, -es, f.</summary>
-    Daphne (a nymph)
+    &emsp;Daphne (a nymph)
 </details>
 
 <details>
     <summary>digitus, -i, m.</summary>
-    finger
+    &emsp;finger
 </details>
 
 <details>
     <summary>dolor, doloris, m.</summary>
-    grief
+    &emsp;grief
 </details>
 
 <details>
     <summary>dux, ducis, m.</summary>
-    leader
+    &emsp;leader
 </details>
 
 <details>
     <summary>hostis, hostis, -ium, m.</summary>
-    enemy
+    &emsp;enemy
 </details>
 
 <details>
     <summary>laurus, -i, f.</summary>
-    laurel tree
+    &emsp;laurel tree
 </details>
 
 <details>
     <summary>manus, f. (4th decl.)</summary>
-    hand
+    &emsp;hand
 </details>
 
 <details>
     <summary>medicina, ae, f.</summary>
-    medicine
+    &emsp;medicine
 </details>
 
 <details>
     <summary>musica, -ae, f.</summary>
-    music
+    &emsp;music
 </details>
 
 <details>
     <summary>osculum, -i, n.</summary>
-    kiss
+    &emsp;kiss
 </details>
 
 <details>
     <summary>ramus, -i, m.</summary>
-    branch, bough
+    &emsp;branch, bough
 </details>
 
 <details>
     <summary>sol, solis, m.</summary>
-    sun
+    &emsp;sun
 </details>
 
 <details>
     <summary>telum, -i, n.</summary>
-    weapon, dart, missile
+    &emsp;weapon, dart, missile
 </details>
 
 <details>
     <summary>Venus, Veneris f.</summary>
-    Venus (goddess of love)
+    &emsp;Venus (goddess of love)
 </details>
 
 <details>
     <summary>virgo, -inis, f.</summary>
-    maiden, young woman
+    &emsp;maiden, young woman
 </details>
 
 <details>
     <summary>vulnus, -eris, n.</summary>
-    wound
+    &emsp;wound
 </details>
 
 <details>
     <summary>cresco, -ere, crevi, cretum</summary>
-    to increase, grow
+    &emsp;to increase, grow
 </details>
 
 <details>
     <summary>dico, -ere, dixi, dictum</summary>
-    say, speak
+    &emsp;say, speak
 </details>
 
 <details>
     <summary>facio, facere, feci, factum</summary>
-    to make, do
+    &emsp;to make, do
 </details>
 
 <details>
     <summary>figo, figere, fixi, fixum</summary>
-    to fasten, affix, transfix, pierce
+    &emsp;to fasten, affix, transfix, pierce
 </details>
 
 <details>
     <summary>fugo (1)</summary>
-    to put to flight
+    &emsp;to put to flight
 </details>
 
 <details>
     <summary>nescio, -ire, nescivi, nescitum</summary>
-    to not know, be ignorant of
+    &emsp;to not know, be ignorant of
 </details>
 
 <details>
     <summary>peto, -ere, petivi, petitum</summary>
-    to seek, ask
+    &emsp;to seek, ask
 </details>
 
 <details>
     <summary>supero (1)</summary>
-    to overcome, conquer
+    &emsp;to overcome, conquer
 </details>
 
 <details>
     <summary>acutus, -a, -um</summary>
-    sharp
+    &emsp;sharp
 </details>
 
 <details>
     <summary>alter, -era, -erum; alter ... alter</summary>
-    the other; the one ... the other
+    &emsp;the other; the one ... the other
 </details>
 
 <details>
     <summary>contentus, -a, -um</summary>
-    satisfied
+    &emsp;satisfied
 </details>
 
 <details>
     <summary>hic, haec, hoc</summary>
-    this; he, she, it; the latter
+    &emsp;this; he, she, it; the latter
 </details>
 
 <details>
     <summary>ille, illa, illud</summary>
-    that, he, she, it, the former
+    &emsp;that, he, she, it, the former
 </details>
 
 <details>
     <summary>obtusus, -a, -um</summary>
-    dull, blunt
+    &emsp;dull, blunt
 </details>
 
 <details>
     <summary>tuus, -a, -um</summary>
-    your (sing.)
+    &emsp;your (sing.)
 </details>
 
 <details>
     <summary>ei, eae, ea</summary>
-    they
+    &emsp;they
 </details>
 
 <details>
     <summary>is, ea, id</summary>
-    he, she, it
+    &emsp;he, she, it
 </details>
 
 <details>
     <summary>quod</summary>
-    which, that
+    &emsp;which, that
 </details>
 
 <details>
     <summary>tu</summary>
-    you
+    &emsp;you
 </details>
 
 
@@ -2774,247 +2774,247 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>amans, amantis, c.</summary>
-    one who loves, a lover
+    &emsp;one who loves, a lover
 </details>
 
 <details>
     <summary>consilium, -ii, n.</summary>
-    plan, advice
+    &emsp;plan, advice
 </details>
 
 <details>
     <summary>cruor, oris, m</summary>
-    blood
+    &emsp;blood
 </details>
 
 <details>
     <summary>domus, -us, f.</summary>
-    house, home
+    &emsp;house, home
 </details>
 
 <details>
     <summary>fissum, -i, n.</summary>
-    crack
+    &emsp;crack
 </details>
 
 <details>
     <summary>gladius, -ii, m.</summary>
-    sword
+    &emsp;sword
 </details>
 
 <details>
     <summary>herba, -ae, f.</summary>
-    grass
+    &emsp;grass
 </details>
 
 <details>
     <summary>iter, iternis, n.</summary>
-    road, path, way
+    &emsp;road, path, way
 </details>
 
 <details>
     <summary>leo, leonis, m.</summary>
-    lion
+    &emsp;lion
 </details>
 
 <details>
     <summary>mors, mortis, -ium f.</summary>
-    death
+    &emsp;death
 </details>
 
 <details>
     <summary>parens, parentis, c.</summary>
-    parent
+    &emsp;parent
 </details>
 
 <details>
     <summary>paries, parietis, m.</summary>
-    wall
+    &emsp;wall
 </details>
 
 <details>
     <summary>pomum, -i, n.</summary>
-    fruit, apple
+    &emsp;fruit, apple
 </details>
 
 <details>
     <summary>Pyramus, -i, m.</summary>
-    Pyramus (a youth)
+    &emsp;Pyramus (a youth)
 </details>
 
 <details>
     <summary>radix, radicis, f.</summary>
-    root, radish
+    &emsp;root, radish
 </details>
 
 <details>
     <summary>tempus, -oris, n.</summary>
-    time
+    &emsp;time
 </details>
 
 <details>
     <summary>Thisbe, -es, f.</summary>
-    Thisbe (a maiden)
+    &emsp;Thisbe (a maiden)
 </details>
 
 <details>
     <summary>tumulus, -i, m.</summary>
-    grave, mound
+    &emsp;grave, mound
 </details>
 
 <details>
     <summary>velamen, -inis, n.</summary>
-    garment, covering
+    &emsp;garment, covering
 </details>
 
 <details>
     <summary>vestigium, -ii, n.</summary>
-    track, footstep
+    &emsp;track, footstep
 </details>
 
 <details>
     <summary>bibo, -ere, bibi, bibitum</summary>
-    to drink
+    &emsp;to drink
 </details>
 
 <details>
     <summary>convenio, -ire, -veni, -ventum</summary>
-    to meet, assemble
+    &emsp;to meet, assemble
 </details>
 
 <details>
     <summary>fallo, -ere, fefelli, falsum</summary>
-    to deceive
+    &emsp;to deceive
 </details>
 
 <details>
     <summary>fugio, -ere, fugi, -itum</summary>
-    to flee
+    &emsp;to flee
 </details>
 
 <details>
     <summary>murmuro (1)</summary>
-    to murmur
+    &emsp;to murmur
 </details>
 
 <details>
     <summary>opto (1)</summary>
-    to wish for, desire
+    &emsp;to wish for, desire
 </details>
 
 <details>
     <summary>pervenio, -ire, -veni, -ventum</summary>
-    to arrive
+    &emsp;to arrive
 </details>
 
 <details>
     <summary>quaero, -ere, quaesivi, quaesitum</summary>
-    to seek, ask, inquire
+    &emsp;to seek, ask, inquire
 </details>
 
 <details>
     <summary>quaeso, -ere; quaeso (te)</summary>
-    seek, beg; I beg (you), please
+    &emsp;seek, beg; I beg (you), please
 </details>
 
 <details>
     <summary>relinquo, -ere, reliqui, relictum</summary>
-    to leave behind
+    &emsp;to leave behind
 </details>
 
 <details>
     <summary>sentio, -ire, sensi, -sum</summary>
-    to feel, know, sense
+    &emsp;to feel, know, sense
 </details>
 
 <details>
     <summary>traho, -ere, traxi, -ctum</summary>
-    to draw, draw out, drag
+    &emsp;to draw, draw out, drag
 </details>
 
 <details>
     <summary>venio, -ire, veni, ventum</summary>
-    to come
+    &emsp;to come
 </details>
 
 <details>
     <summary>albus, -a, -um</summary>
-    white
+    &emsp;white
 </details>
 
 <details>
     <summary>cruentus, -a, -um</summary>
-    bloody
+    &emsp;bloody
 </details>
 
 <details>
     <summary>dignus, -a, -um + abl</summary>
-    worthy (of)
+    &emsp;worthy (of)
 </details>
 
 <details>
     <summary>prior, prius (comparative)</summary>
-    before, earlier
+    &emsp;before, earlier
 </details>
 
 <details>
     <summary>purpureus, -a, -um</summary>
-    purple
+    &emsp;purple
 </details>
 
 <details>
     <summary>vicinus, -a, -um + dat.</summary>
-    neighboring, near (to)
+    &emsp;neighboring, near (to)
 </details>
 
 <details>
     <summary>e, ex + abl.</summary>
-    out of, from, out from
+    &emsp;out of, from, out from
 </details>
 
 <details>
     <summary>hinc</summary>
-    here, on this side, hence
+    &emsp;here, on this side, hence
 </details>
 
 <details>
     <summary>illinc</summary>
-    there, on that side, thence
+    &emsp;there, on that side, thence
 </details>
 
 <details>
     <summary>procul</summary>
-    at a distance
+    &emsp;at a distance
 </details>
 
 <details>
     <summary>qui, quae, quod</summary>
-    who, which
+    &emsp;who, which
 </details>
 
 <details>
     <summary>quia</summary>
-    because
+    &emsp;because
 </details>
 
 <details>
     <summary>recens</summary>
-    recently
+    &emsp;recently
 </details>
 
 <details>
     <summary>sub + acc. or abl.</summary>
-    under, beneath
+    &emsp;under, beneath
 </details>
 
 <details>
     <summary>ut</summary>
-    as, like
+    &emsp;as, like
 </details>
 
 <details>
     <summary>utrimque</summary>
-    on each side, on both sides
+    &emsp;on each side, on both sides
 </details>
 
 
@@ -3022,112 +3022,112 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>cinis, -eris, m.</summary>
-    ashes
+    &emsp;ashes
 </details>
 
 <details>
     <summary>comes, comitis, c.</summary>
-    companion, sharer
+    &emsp;companion, sharer
 </details>
 
 <details>
     <summary>hora, -ae, f.</summary>
-    hour
+    &emsp;hour
 </details>
 
 <details>
     <summary>monumentum, -i, n.</summary>
-    memorial, reminder
+    &emsp;memorial, reminder
 </details>
 
 <details>
     <summary>periculum, -i, n.</summary>
-    danger
+    &emsp;danger
 </details>
 
 <details>
     <summary>urna, ae, f.</summary>
-    urn, vessel of baked clay
+    &emsp;urn, vessel of baked clay
 </details>
 
 <details>
     <summary>aperio, -ire, -ui, -pertum</summary>
-    to open
+    &emsp;to open
 </details>
 
 <details>
     <summary>audio, -ire, -ivi, -itum</summary>
-    to hear
+    &emsp;to hear
 </details>
 
 <details>
     <summary>claudo, -ere, clausi, clausum</summary>
-    to close
+    &emsp;to close
 </details>
 
 <details>
     <summary>inquit</summary>
-    says, said
+    &emsp;says, said
 </details>
 
 <details>
     <summary>lego, -ere, legi, lectum</summary>
-    to read, gather, choose
+    &emsp;to read, gather, choose
 </details>
 
 <details>
     <summary>mitto, -ere, misi, missum</summary>
-    to send
+    &emsp;to send
 </details>
 
 <details>
     <summary>nomino (1)</summary>
-    to call, name
+    &emsp;to call, name
 </details>
 
 <details>
     <summary>pono, -ere, posui, positum</summary>
-    to put, place
+    &emsp;to put, place
 </details>
 
 <details>
     <summary>rapio, -ere, -ui, raptum</summary>
-    to seize, carry off
+    &emsp;to seize, carry off
 </details>
 
 <details>
     <summary>incertus, -a, -um</summary>
-    uncertain, unsure
+    &emsp;uncertain, unsure
 </details>
 
 <details>
     <summary>mortuus, -a, -um</summary>
-    dead
+    &emsp;dead
 </details>
 
 <details>
     <summary>at (introducing a contrary idea)</summary>
-    but, yet, but meanwhile
+    &emsp;but, yet, but meanwhile
 </details>
 
 <details>
     <summary>atque</summary>
-    and, and also
+    &emsp;and, and also
 </details>
 
 <details>
     <summary>nam</summary>
-    for
+    &emsp;for
 </details>
 
 <details>
     <summary>non iam</summary>
-    no longer (book says for, because)
+    &emsp;no longer (book says for, because)
 </details>
 
 <details>
     <summary>quos</summary>
-    whom, acc. pl.
+    &emsp;whom, acc. pl.
 </details>
 
 
@@ -3135,227 +3135,227 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>aetas, aetatis, f.</summary>
-    age
+    &emsp;age
 </details>
 
 <details>
     <summary>audacia, -ae, f.</summary>
-    boldness
+    &emsp;boldness
 </details>
 
 <details>
     <summary>avus, i, m.</summary>
-    grandfather
+    &emsp;grandfather
 </details>
 
 <details>
     <summary>certamen, -minis, n.</summary>
-    contest, struggle
+    &emsp;contest, struggle
 </details>
 
 <details>
     <summary>cornu, -us, n.</summary>
-    horn, end, tip
+    &emsp;horn, end, tip
 </details>
 
 <details>
     <summary>culpa, -ae, f.</summary>
-    guilt, fault, blame
+    &emsp;guilt, fault, blame
 </details>
 
 <details>
     <summary>cura, -ae, f.</summary>
-    care, concern
+    &emsp;care, concern
 </details>
 
 <details>
     <summary>cursus, -us, m.</summary>
-    running, course
+    &emsp;running, course
 </details>
 
 <details>
     <summary>ignis, ignis, -ium, m.</summary>
-    fire
+    &emsp;fire
 </details>
 
 <details>
     <summary>lex, legis, f.</summary>
-    law
+    &emsp;law
 </details>
 
 <details>
     <summary>Megareus, -i, m.</summary>
-    Megareus (a king)
+    &emsp;Megareus (a king)
 </details>
 
 <details>
     <summary>Neptunus, -i, m.</summary>
-    Neptune (sea god)
+    &emsp;Neptune (sea god)
 </details>
 
 <details>
     <summary>procus, -i, m.</summary>
-    suitor
+    &emsp;suitor
 </details>
 
 <details>
     <summary>rumor, -oris, m.</summary>
-    rumor, hearsay
+    &emsp;rumor, hearsay
 </details>
 
 <details>
     <summary>spectator, -oris, m.</summary>
-    spectator
+    &emsp;spectator
 </details>
 
 <details>
     <summary>turba, -ae, f.</summary>
-    crowd
+    &emsp;crowd
 </details>
 
 <details>
     <summary>victoria, -ae, f.</summary>
-    victory
+    &emsp;victory
 </details>
 
 <details>
     <summary>adduco, -ere, -duxi, -ductum</summary>
-    bring to, draw to, influence
+    &emsp;bring to, draw to, influence
 </details>
 
 <details>
     <summary>capio, -ere, cepi, captum</summary>
-    to capture, take
+    &emsp;to capture, take
 </details>
 
 <details>
     <summary>corono (1)</summary>
-    to crown
+    &emsp;to crown
 </details>
 
 <details>
     <summary>culpo (1)</summary>
-    to blame
+    &emsp;to blame
 </details>
 
 <details>
     <summary>damnno (1)</summary>
-    to condemn
+    &emsp;to condemn
 </details>
 
 <details>
     <summary>eo, ire, ii (ivi), itum</summary>
-    to go
+    &emsp;to go
 </details>
 
 <details>
     <summary>ignosco, -ere, -novi, notum + dat.</summary>
-    to forgive
+    &emsp;to forgive
 </details>
 
 <details>
     <summary>moveo, -ere, movi, motum</summary>
-    to move, stir
+    &emsp;to move, stir
 </details>
 
 <details>
     <summary>scio, scire, scivi or scii, scitum</summary>
-    to know
+    &emsp;to know
 </details>
 
 <details>
     <summary>sono (1)</summary>
-    to sound
+    &emsp;to sound
 </details>
 
 <details>
     <summary>supero (1)</summary>
-    to surpass, rise above, conquer
+    &emsp;to surpass, rise above, conquer
 </details>
 
 <details>
     <summary>vinco, -ere, vici, victum</summary>
-    to conquer, defeat, get the better of, vanquish, be victorious
+    &emsp;to conquer, defeat, get the better of, vanquish, be victorious
 </details>
 
 <details>
     <summary>deterritus, -a, -um</summary>
-    deterred
+    &emsp;deterred
 </details>
 
 <details>
     <summary>durus, -a, -um</summary>
-    hard, harsh
+    &emsp;hard, harsh
 </details>
 
 <details>
     <summary>innubus, -a, -um</summary>
-    unwed
+    &emsp;unwed
 </details>
 
 <details>
     <summary>tantus, -a, -um</summary>
-    such a great, so great
+    &emsp;such a great, so great
 </details>
 
 <details>
     <summary>tardus, -a, -um</summary>
-    late, slow
+    &emsp;late, slow
 </details>
 
 <details>
     <summary>victus, -a, -um</summary>
-    conquered, beaten
+    &emsp;conquered, beaten
 </details>
 
 <details>
     <summary>an</summary>
-    or
+    &emsp;or
 </details>
 
 <details>
     <summary>forsitan</summary>
-    perhaps
+    &emsp;perhaps
 </details>
 
 <details>
     <summary>magis</summary>
-    more
+    &emsp;more
 </details>
 
 <details>
     <summary>nisi</summary>
-    unless, if ... not
+    &emsp;unless, if ... not
 </details>
 
 <details>
     <summary>nondum</summary>
-    not yet
+    &emsp;not yet
 </details>
 
 <details>
     <summary>qui, quae, quod</summary>
-    who, which, that
+    &emsp;who, which, that
 </details>
 
 <details>
     <summary>tam</summary>
-    so
+    &emsp;so
 </details>
 
 <details>
     <summary>(non) tardius</summary>
-    (not) more slowly
+    &emsp;(not) more slowly
 </details>
 
 <details>
     <summary>vere</summary>
-    truly
+    &emsp;truly
 </details>
 
 <details>
     <summary>videtur</summary>
-    he, she, it seems (passive of see)
+    &emsp;he, she, it seems (passive of see)
 </details>
 
 
@@ -3363,242 +3363,242 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>auctor, -oris, m.</summary>
-    author
+    &emsp;author
 </details>
 
 <details>
     <summary>cursor, -oris, m.</summary>
-    runner
+    &emsp;runner
 </details>
 
 <details>
     <summary>Cyprus, -i, f.</summary>
-    the island of Cyprus
+    &emsp;the island of Cyprus
 </details>
 
 <details>
     <summary>heros, -ois, m.</summary>
-    hero
+    &emsp;hero
 </details>
 
 <details>
     <summary>liber, -bri, m.</summary>
-    book
+    &emsp;book
 </details>
 
 <details>
     <summary>meta, -ae, f.</summary>
-    goal, post
+    &emsp;goal, post
 </details>
 
 <details>
     <summary>pagina, -ae, f.</summary>
-    page
+    &emsp;page
 </details>
 
 <details>
     <summary>prex, precis, f. (usually plural)</summary>
-    prayers
+    &emsp;prayers
 </details>
 
 <details>
     <summary>sententia, -ae, f.</summary>
-    thought, sentence
+    &emsp;thought, sentence
 </details>
 
 <details>
     <summary>signum, -i, n.</summary>
-    signal, sign
+    &emsp;signal, sign
 </details>
 
 <details>
     <summary>tabula, -ae, f.</summary>
-    board, plank, table
+    &emsp;board, plank, table
 </details>
 
 <details>
     <summary>usus, usus, m.</summary>
-    use, practice
+    &emsp;use, practice
 </details>
 
 <details>
     <summary>adduco, -ere, -duxi, -ductum</summary>
-    to influence
+    &emsp;to influence
 </details>
 
 <details>
     <summary>adoro (1)</summary>
-    to adore
+    &emsp;to adore
 </details>
 
 <details>
     <summary>carpo, -ere, carpsi, carptum</summary>
-    to pick, pluck
+    &emsp;to pick, pluck
 </details>
 
 <details>
     <summary>concino, -ere, -ui</summary>
-    to sound in chorus
+    &emsp;to sound in chorus
 </details>
 
 <details>
     <summary>curro, -ere, cucurri, cursum</summary>
-    to run
+    &emsp;to run
 </details>
 
 <details>
     <summary>duco, -ere, duxi, ductum</summary>
-    to lead
+    &emsp;to lead
 </details>
 
 <details>
     <summary>gaudeo, -ere, ieci, iactum</summary>
-    to rejoice
+    &emsp;to rejoice
 </details>
 
 <details>
     <summary>iacio, -ere, ieci, iactum</summary>
-    to throw
+    &emsp;to throw
 </details>
 
 <details>
     <summary>inquit</summary>
-    says, said
+    &emsp;says, said
 </details>
 
 <details>
     <summary>posco, -ere, poposci</summary>
-    to request, demand
+    &emsp;to request, demand
 </details>
 
 <details>
     <summary>praetereo, -ire, -ii, -itum</summary>
-    to go past, pass by
+    &emsp;to go past, pass by
 </details>
 
 <details>
     <summary>promitto, -ere, -misi, promissum</summary>
-    to promise
+    &emsp;to promise
 </details>
 
 <details>
     <summary>scribo, -ere, scripsi, -ptum</summary>
-    to write
+    &emsp;to write
 </details>
 
 <details>
     <summary>aureus, -a, -um</summary>
-    golden
+    &emsp;golden
 </details>
 
 <details>
     <summary>defessus, -a, -um</summary>
-    tired, worn out, weary
+    &emsp;tired, worn out, weary
 </details>
 
 <details>
     <summary>invitus, -a, -um</summary>
-    unwilling
+    &emsp;unwilling
 </details>
 
 <details>
     <summary>medius, -a, -um</summary>
-    middle of
+    &emsp;middle of
 </details>
 
 <details>
     <summary>motus, -a, -um</summary>
-    moved, influenced
+    &emsp;moved, influenced
 </details>
 
 <details>
     <summary>remoratus, -a, -um</summary>
-    delayed again, hindered
+    &emsp;delayed again, hindered
 </details>
 
 <details>
     <summary>summus, -a, -um</summary>
-    top of, highest
+    &emsp;top of, highest
 </details>
 
 <details>
     <summary>tertius, -a, -um</summary>
-    third
+    &emsp;third
 </details>
 
 <details>
     <summary>demum</summary>
-    at last, finally
+    &emsp;at last, finally
 </details>
 
 <details>
     <summary>facile</summary>
-    easily
+    &emsp;easily
 </details>
 
 <details>
     <summary>forte</summary>
-    by chance
+    &emsp;by chance
 </details>
 
 <details>
     <summary>iam</summary>
-    now, already
+    &emsp;now, already
 </details>
 
 <details>
     <summary>igitur</summary>
-    therefore
+    &emsp;therefore
 </details>
 
 <details>
     <summary>interea</summary>
-    meanwhile
+    &emsp;meanwhile
 </details>
 
 <details>
     <summary>longe</summary>
-    far away
+    &emsp;far away
 </details>
 
 <details>
     <summary>magnopere</summary>
-    very greatly
+    &emsp;very greatly
 </details>
 
 <details>
     <summary>nec... nec</summary>
-    neither... nor
+    &emsp;neither... nor
 </details>
 
 <details>
     <summary>no solum... sed etiam</summary>
-    not only... but also
+    &emsp;not only... but also
 </details>
 
 <details>
     <summary>oblique</summary>
-    to the side
+    &emsp;to the side
 </details>
 
 <details>
     <summary>quomodo</summary>
-    how, in what manner
+    &emsp;how, in what manner
 </details>
 
 <details>
     <summary>secreto</summary>
-    secretly, apart
+    &emsp;secretly, apart
 </details>
 
 <details>
     <summary>vix</summary>
-    scarcely
+    &emsp;scarcely
 </details>
 
 <details>
     <summary>hoc modo</summary>
-    in this manner, thus
+    &emsp;in this manner, thus
 </details>
 
 
@@ -3606,212 +3606,212 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>aurum, -r, n.</summary>
-    gold
+    &emsp;gold
 </details>
 
 <details>
     <summary>Bacchus, -i, m.</summary>
-    Bacchus (god of wine)
+    &emsp;Bacchus (god of wine)
 </details>
 
 <details>
     <summary>caro, carnis, f.</summary>
-    flesh, meat
+    &emsp;flesh, meat
 </details>
 
 <details>
     <summary>Ceres, Cereris f.</summary>
-    Ceres (goddess of agriculture)
+    &emsp;Ceres (goddess of agriculture)
 </details>
 
 <details>
     <summary>crimen, -inis, n.</summary>
-    sin, crime, fault
+    &emsp;sin, crime, fault
 </details>
 
 <details>
     <summary>dies, diei, m.</summary>
-    day
+    &emsp;day
 </details>
 
 <details>
     <summary>maestitia, -ae, f.</summary>
-    sadness
+    &emsp;sadness
 </details>
 
 <details>
     <summary>Midas, Midae, m.</summary>
-    Midas (King of Phrygia)
+    &emsp;Midas (King of Phrygia)
 </details>
 
 <details>
     <summary>ortus, -us, m.</summary>
-    source, origin
+    &emsp;source, origin
 </details>
 
 <details>
     <summary>postis, -is, -ium, m.</summary>
-    door post
+    &emsp;door post
 </details>
 
 <details>
     <summary>res, rei, f.</summary>
-    thing, object; pl., situation
+    &emsp;thing, object; pl., situation
 </details>
 
 <details>
     <summary>saxum, -i, n.</summary>
-    rock, stone
+    &emsp;rock, stone
 </details>
 
 <details>
     <summary>venia, -ae, f.</summary>
-    pardon, favor
+    &emsp;pardon, favor
 </details>
 
 <details>
     <summary>vis, f.</summary>
-    force, strength; touch
+    &emsp;force, strength; touch
 </details>
 
 <details>
     <summary>bibo, -ere, bibi, bibitum</summary>
-    to drink
+    &emsp;to drink
 </details>
 
 <details>
     <summary>credo, -ere, -didi, -ditum + dat.</summary>
-    to believe, trust
+    &emsp;to believe, trust
 </details>
 
 <details>
     <summary>edo, -ere, edi, esum</summary>
-    to eat
+    &emsp;to eat
 </details>
 
 <details>
     <summary>fluo, -ere, fluxi, fluxum</summary>
-    to flow
+    &emsp;to flow
 </details>
 
 <details>
     <summary>lavo, -are, lavi, lautum or lotum</summary>
-    to wash
+    &emsp;to wash
 </details>
 
 <details>
     <summary>odi, odisse (perfect used as present)</summary>
-    I hate
+    &emsp;I hate
 </details>
 
 <details>
     <summary>pecco (1)</summary>
-    to sin, make a mistake, err
+    &emsp;to sin, make a mistake, err
 </details>
 
 <details>
     <summary>remitto, -ere, -misi, -missum</summary>
-    to send back, let go back, drive away
+    &emsp;to send back, let go back, drive away
 </details>
 
 <details>
     <summary>removeo, -ere, -movi, -motum</summary>
-    to remove, take away, put off
+    &emsp;to remove, take away, put off
 </details>
 
 <details>
     <summary>tendo, -ere, tetendi, tentum or tensum</summary>
-    to stretch out, extend
+    &emsp;to stretch out, extend
 </details>
 
 <details>
     <summary>transeo, -ire, -ii (-ivi), -itum</summary>
-    to go across, pass over, cross
+    &emsp;to go across, pass over, cross
 </details>
 
 <details>
     <summary>adversus, -a, -um</summary>
-    unfavorable
+    &emsp;unfavorable
 </details>
 
 <details>
     <summary>altus, -a, -um</summary>
-    tall, lofty, deep, high
+    &emsp;tall, lofty, deep, high
 </details>
 
 <details>
     <summary>damnosus, -a, -um</summary>
-    ruinous
+    &emsp;ruinous
 </details>
 
 <details>
     <summary>liquidus, -a, -um</summary>
-    liquid
+    &emsp;liquid
 </details>
 
 <details>
     <summary>maestus, -a, -um</summary>
-    sad, gloomy
+    &emsp;sad, gloomy
 </details>
 
 <details>
     <summary>omnis, -e</summary>
-    each, every; pl., all
+    &emsp;each, every; pl., all
 </details>
 
 <details>
     <summary>onustus, -a, -um</summary>
-    laden
+    &emsp;laden
 </details>
 
 <details>
     <summary>secundus, -a, -um</summary>
-    following, favorable, second
+    &emsp;following, favorable, second
 </details>
 
 <details>
     <summary>talis, -e</summary>
-    such (a)
+    &emsp;such (a)
 </details>
 
 <details>
     <summary>viridis, -e</summary>
-    green
+    &emsp;green
 </details>
 
 <details>
     <summary>atque (ac)</summary>
-    and, and also
+    &emsp;and, and also
 </details>
 
 <details>
     <summary>cum, conj.</summary>
-    when
+    &emsp;when
 </details>
 
 <details>
     <summary>cupide</summary>
-    eagerly
+    &emsp;eagerly
 </details>
 
 <details>
     <summary>etiamnunc</summary>
-    yet, still
+    &emsp;yet, still
 </details>
 
 <details>
     <summary>praeterea</summary>
-    in addition, further, besides, moreover
+    &emsp;in addition, further, besides, moreover
 </details>
 
 <details>
     <summary>simul</summary>
-    at the same time
+    &emsp;at the same time
 </details>
 
 <details>
     <summary>simul... simul</summary>
-    not only... but at the same time
+    &emsp;not only... but at the same time
 </details>
 
 
@@ -3819,206 +3819,206 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 
 <details>
     <summary>Apollo, -inis, m.</summary>
-    Apollo (god of music and medicine)
+    &emsp;Apollo (god of music and medicine)
 </details>
 
 <details>
     <summary>auris, auris, -ium, f.</summary>
-    ear
+    &emsp;ear
 </details>
 
 <details>
     <summary>carmen, -inis, n.</summary>
-    song
+    &emsp;song
 </details>
 
 <details>
     <summary>gemma, -ae, f.</summary>
-    jewel, gem
+    &emsp;jewel, gem
 </details>
 
 <details>
     <summary>iudex, -icis, m.</summary>
-    judge
+    &emsp;judge
 </details>
 
 <details>
     <summary>iudicium, -ii, n.</summary>
-    judgement
+    &emsp;judgement
 </details>
 
 <details>
     <summary>lyra, -ae, f.</summary>
-    lyre
+    &emsp;lyre
 </details>
 
 <details>
     <summary>ventus, -i, m.</summary>
-    wind
+    &emsp;wind
 </details>
 
 <details>
     <summary>abeo, -ire, -ivi or -ii, -itum</summary>
-    to go away
+    &emsp;to go away
 </details>
 
 <details>
     <summary>canto (1)</summary>
-    to sing, make music
+    &emsp;to sing, make music
 </details>
 
 <details>
     <summary>coepi, coepisse, coeptum (defective)</summary>
-    began
+    &emsp;began
 </details>
 
 <details>
     <summary>colo, -ere, -ui, cultum</summary>
-    to till, cultivate, honor, worship
+    &emsp;to till, cultivate, honor, worship
 </details>
 
 <details>
     <summary>conor, conari, conatus sum</summary>
-    to attempt, try
+    &emsp;to attempt, try
 </details>
 
 <details>
     <summary>contemno, -ere, -tempsi, -temptum</summary>
-    to value little, disdain
+    &emsp;to value little, disdain
 </details>
 
 <details>
     <summary>decoro (1)</summary>
-    to adorn, decorate
+    &emsp;to adorn, decorate
 </details>
 
 <details>
     <summary>desum, -esse, -fui, futurum</summary>
-    to be absent, be lacking, missing
+    &emsp;to be absent, be lacking, missing
 </details>
 
 <details>
     <summary>effodio, -ere, -fodi, -fossum</summary>
-    to dig
+    &emsp;to dig
 </details>
 
 <details>
     <summary>gero, -ere, gessi, gestum</summary>
-    to bear, carry, wear, accomplish, do
+    &emsp;to bear, carry, wear, accomplish, do
 </details>
 
 <details>
     <summary>immurmuro (1)</summary>
-    to whisper into
+    &emsp;to whisper into
 </details>
 
 <details>
     <summary>inflo (1)</summary>
-    to blow into
+    &emsp;to blow into
 </details>
 
 <details>
     <summary>libero (1)</summary>
-    to free, set free, liberate
+    &emsp;to free, set free, liberate
 </details>
 
 <details>
     <summary>loquor, loqui, locutus sum</summary>
-    to speak, say
+    &emsp;to speak, say
 </details>
 
 <details>
     <summary>miror, mirari, miratus sum</summary>
-    wonder at, admire
+    &emsp;wonder at, admire
 </details>
 
 <details>
     <summary>patior, pati, passus sum</summary>
-    to allow, suffer, permit
+    &emsp;to allow, suffer, permit
 </details>
 
 <details>
     <summary>orior, oriri, ortus sum</summary>
-    to rise
+    &emsp;to rise
 </details>
 
 <details>
     <summary>repono, -ere, -posui, -positum</summary>
-    to put back, replace
+    &emsp;to put back, replace
 </details>
 
 <details>
     <summary>reseco, -are, -ui, -tum</summary>
-    to cut off
+    &emsp;to cut off
 </details>
 
 <details>
     <summary>submitto, -ere, -misi, -missum</summary>
-    to put down, lower, humble, yield
+    &emsp;to put down, lower, humble, yield
 </details>
 
 <details>
     <summary>taceo, -ere, -ui, -itum</summary>
-    to be silent
+    &emsp;to be silent
 </details>
 
 <details>
     <summary>termino (1)</summary>
-    to end, finish
+    &emsp;to end, finish
 </details>
 
 <details>
     <summary>vereor, vereri, veritus sum</summary>
-    to fear, be afraid
+    &emsp;to fear, be afraid
 </details>
 
 <details>
     <summary>verto, -ere, verti, versum</summary>
-    to turn
+    &emsp;to turn
 </details>
 
 <details>
     <summary>barbarus, -a, -um</summary>
-    rough, rude, foreign
+    &emsp;rough, rude, foreign
 </details>
 
 <details>
     <summary>dexter, -tra, -trum</summary>
-    right, skillful
+    &emsp;right, skillful
 </details>
 
 <details>
     <summary>humanus, -a, -um</summary>
-    human, humane
+    &emsp;human, humane
 </details>
 
 <details>
     <summary>iniustus, -a, -um</summary>
-    unjust, unfair
+    &emsp;unjust, unfair
 </details>
 
 <details>
     <summary>sinister, -tra, -trum</summary>
-    left, adverse
+    &emsp;left, adverse
 </details>
 
 <details>
     <summary>villosus, -a, -um</summary>
-    shaggy, hairy
+    &emsp;shaggy, hairy
 </details>
 
 <details>
     <summary>nam</summary>
-    for
+    &emsp;for
 </details>
 
 <details>
     <summary>postea</summary>
-    afterwards, thereafter, after that
+    &emsp;afterwards, thereafter, after that
 </details>
 
 <details>
     <summary>tum</summary>
-    then
+    &emsp;then
 </details>
 
