@@ -2179,7 +2179,7 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 </details>
 
 <details>
-    <summary>homo, inis, m</summary>
+    <summary>homo, -inis, m.</summary>
     &emsp;man, human
 </details>
 
@@ -2189,7 +2189,7 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 </details>
 
 <details>
-    <summary>nomen, nomenis (neuter)</summary>
+    <summary>nomen, nominis, n.</summary>
     &emsp;name
 </details>
 
@@ -2808,7 +2808,7 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 </details>
 
 <details>
-    <summary>iter, iternis, n.</summary>
+    <summary>iter, itineris, n.</summary>
     &emsp;road, path, way
 </details>
 
@@ -3239,7 +3239,7 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 </details>
 
 <details>
-    <summary>damnno (1)</summary>
+    <summary>damno (1)</summary>
     &emsp;to condemn
 </details>
 
@@ -3572,7 +3572,7 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 </details>
 
 <details>
-    <summary>no solum... sed etiam</summary>
+    <summary>non solum... sed etiam</summary>
     &emsp;not only... but also
 </details>
 
