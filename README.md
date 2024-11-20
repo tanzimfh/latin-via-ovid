@@ -1347,7 +1347,7 @@ on Quizlet. See on GitHub [here](https://github.com/tanzimfh/latin-via-ovid).
 </details>
 
 <details>
-    <summary>saturus, -i, m.</summary>
+    <summary>satyrus, -i, m.</summary>
     &emsp;satyr
 </details>
 
